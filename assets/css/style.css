@@ -1,0 +1,56 @@
+/* GLOBAL */
+
+body {
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+
+/* Logo */
+
+header {
+    width: 100%;
+    background-color: #c2c2c2;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+#logo span {
+    text-decoration: none;
+    color: #A62639;
+}
+
+#logo img {
+    height: 1.5rem;
+    margin-right: 1rem;
+    background-color: #A62639;
+}
+
+
+/* Nav */
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #012340;
+    font-weight: bold;
+}
+
+
