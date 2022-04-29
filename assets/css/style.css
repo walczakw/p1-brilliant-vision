@@ -83,6 +83,7 @@ header {
     font-size: 2rem;
     margin: 0;
     letter-spacing: 0.1rem;
+    text-shadow: 0 1px 0 #012340;
 }
 
 
@@ -134,13 +135,12 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 30px;
-
 }
 
 #hero-image img {
     height: 90%;
-    border: 2px solid #012340;
+    border: 1px solid #012340;
+    box-shadow: 10px 10px 5px #4f6070;
 }
 
 #hero h3 {
@@ -176,6 +176,7 @@ nav a:hover {
     letter-spacing: 0.1rem;
     border-bottom: 1px solid #A62639;
     margin: 0;
+    text-shadow: 0 1px 0 #012340;
 }
 
 #hero-title-text h3 {
