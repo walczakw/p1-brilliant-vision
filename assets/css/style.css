@@ -200,3 +200,45 @@ nav a:hover {
 }
 
 
+/* Services */
+
+#services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* #services-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+
+.services-container-row {
+    display: flex;
+    justify-content: center;
+}
+
+.services-text {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-image {
+    width: 30%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-image img {
+    height: 90%;
+    border: 1px solid #012340;
+    box-shadow: 10px 10px 10px #4f6070;
+}
