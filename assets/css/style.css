@@ -10,6 +10,23 @@ body {
     display: block;
 }
 
+button {
+    background-color: #A62639;
+    color: white;
+    border-radius: 0.4rem;
+    border-width: 0.2rem;
+    padding: 0.3rem;
+    border-color: #012340;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+}
+
+button:hover {
+    color: #A62639;
+    background-color: white;
+    border-color: #A62639;
+}
+
 /* HEADER */
 
 
@@ -68,8 +85,8 @@ nav a {
     color: #012340;
     font-weight: bold;
     font-size: 1.5rem;
-    padding: 2px 6px;
-    border-radius: 4px;
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.4rem;
 }
 
 nav a:hover {
@@ -88,8 +105,32 @@ nav a:hover {
 #hero-image {
     width: 40%;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #hero-text-wrapper {
     width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+#hero-title-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-sub-text {
+    display: flex;
+    flex-direction: column;
+}
+
+#hero-sub-text button {
+    margin-top: 1rem;
+}
+
+
