@@ -46,6 +46,7 @@ header {
     justify-content: space-between;
     align-items: center;
     position: fixed;
+    padding: 1rem 0;
 }
 
 /* Logo */
@@ -112,7 +113,9 @@ nav a:hover {
 #hero {
     display: flex;
     justify-content: center;
-    background-color: lightgray;
+    padding-top: 8rem;
+    padding-bottom: 2rem;;
+    height: 70vh;
 }
 
 #hero-image {
@@ -121,6 +124,10 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#hero-image img {
+    height: 70vh;
 }
 
 #hero-text-wrapper {
@@ -145,5 +152,4 @@ nav a:hover {
 #hero-sub-text button {
     margin-top: 1rem;
 }
-
 
