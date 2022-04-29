@@ -11,31 +11,41 @@ body {
 
 header {
     width: 100%;
-    background-color: #c2c2c2;
+    background-color: rgba(255, 255, 255, 0.5);
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-between;
     align-items: center;
+    position: fixed;
 }
 
 #logo {
     display: flex;
-    align-items: center;
-    background-color: white;
+    margin-left: 4rem;
 }
 
-#logo span {
+#logo a {
     text-decoration: none;
-    color: #A62639;
 }
 
 #logo img {
     height: 1.5rem;
-    margin-right: 1rem;
-    background-color: #A62639;
+    width: 3rem;
+    filter: invert(20%) sepia(35%) saturate(4333%) hue-rotate(330deg) brightness(93%) contrast(93%);
+}
+
+#logo span {
+    color: #A62639;
+    font-weight: bold;
+    font-size: 2rem;
 }
 
 
 /* Nav */
+
+nav {
+    margin-right: 4rem;
+}
 
 nav ul {
     display: flex;
@@ -44,7 +54,7 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0 1rem;
+    margin-left: 1rem;
 }
 
 nav a {
@@ -52,5 +62,4 @@ nav a {
     color: #012340;
     font-weight: bold;
 }
-
 
