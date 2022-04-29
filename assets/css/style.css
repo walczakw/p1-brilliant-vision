@@ -61,6 +61,10 @@ header {
     margin-left: 4rem;
 }
 
+#logo-wrapper a {
+    text-decoration: none;
+}
+
 #logo {
     display: flex;
     flex-direction: column;
