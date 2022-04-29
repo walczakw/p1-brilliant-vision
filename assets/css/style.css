@@ -4,6 +4,14 @@ body {
     margin: 0 auto;
 }
 
+h1, h2 {
+    color: #A62639;
+    font-family: 'Halant', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+
 .image-container img {
     max-width: 100%;
     height: auto;
@@ -42,13 +50,15 @@ header {
 
 /* Logo */
 
-#logo {
-    display: flex;
+#logo-wrapper {
     margin-left: 4rem;
 }
 
-#logo a {
-    text-decoration: none;
+#logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 #logo img {
@@ -57,10 +67,12 @@ header {
     filter: invert(20%) sepia(35%) saturate(4333%) hue-rotate(330deg) brightness(93%) contrast(93%);
 }
 
-#logo span {
-    color: #A62639;
-    font-weight: bold;
+#logo h1 {
+    font-weight: 500;
     font-size: 2rem;
+    text-decoration: none;
+    margin: 0 0 0 0.5rem;
+    letter-spacing: 0.1rem;
 }
 
 
@@ -100,6 +112,7 @@ nav a:hover {
 #hero {
     display: flex;
     justify-content: center;
+    background-color: lightgray;
 }
 
 #hero-image {
