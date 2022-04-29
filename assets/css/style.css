@@ -122,9 +122,10 @@ nav a:hover {
 #hero {
     display: flex;
     justify-content: center;
-    padding-top: 8rem;
+    padding-top: 9rem;
     padding-bottom: 2rem;;
     height: 70vh;
+    background-color: #DCEAF2;
 }
 
 #hero-image {
@@ -133,10 +134,13 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 30px;
+
 }
 
 #hero-image img {
-    height: 70vh;
+    height: 90%;
+    border: 2px solid #012340;
 }
 
 #hero h3 {
