@@ -61,5 +61,18 @@ nav a {
     text-decoration: none;
     color: #012340;
     font-weight: bold;
+    font-size: 1.5rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+nav a:hover {
+  color: white;
+  background-color: #A62639;
+}
+
+nav a:active {
+    color: white;
+    background-color: #A62639;
 }
 
