@@ -32,6 +32,7 @@ button {
     border-color: #012340;
     font-weight: bold;
     letter-spacing: 0.1rem;
+    box-shadow: 3px 3px 5px #4f6070;
 }
 
 button:hover {
@@ -140,7 +141,7 @@ nav a:hover {
 #hero-image img {
     height: 90%;
     border: 1px solid #012340;
-    box-shadow: 10px 10px 5px #4f6070;
+    box-shadow: 10px 10px 10px #4f6070;
 }
 
 #hero h3 {
