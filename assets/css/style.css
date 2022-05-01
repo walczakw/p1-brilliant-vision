@@ -2,6 +2,7 @@
 html {
     font-family: 'Nunito', sans-serif;
     color: #012340;
+    font-size: 16px;
 }
 
 body {
@@ -124,10 +125,6 @@ nav a:hover {
 #hero {
     display: flex;
     justify-content: center;
-    /* padding-top: 9rem;
-    padding-bottom: 2rem;; */
-    /* height: 70vh; */
-    /* background-color: #DCEAF2; */
 }
 
 #hero-image {
@@ -141,22 +138,8 @@ nav a:hover {
     overflow: hidden;
     display: flex;
     align-items: center;
-
+    justify-content: flex-end;
 }
-
-/* #hero-image {
-    width: 40%;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#hero-image img {
-    height: 90%;
-    border: 1px solid #012340;
-    box-shadow: 10px 10px 10px #4f6070;
-} */
 
 #hero h3 {
     font-weight: 500;
@@ -165,13 +148,14 @@ nav a:hover {
 }
 
 #hero-text-wrapper {
-    width: 40%;
-    height: 70%;
+    width: 30rem;
+    height: 30rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: rgba(255, 255, 255, 0.8);
+    margin-right: 4rem;
 }
 
 #hero-title-text{
