@@ -137,7 +137,8 @@ nav a {
     border-radius: 0.4rem;
 }
 
-nav a:hover {
+/* a:active doesn't work */
+nav a:active, a:hover {
   color: white;
   background-color: #A62639;
   transition: all 0.2s linear;
@@ -146,7 +147,7 @@ nav a:hover {
 .active {
     color: white;
     background-color: #A62639;
-  }
+}
   
 
 /* Hero */
@@ -270,21 +271,25 @@ nav a:hover {
     border-bottom: 0.2rem solid #A62639;
 }
 
-.services-container-row {
+.services-container {
     display: flex;
     justify-content: center;
     margin: 4rem 4rem;
 }
 
 .services-text {
-    width: 60%;
-    display: flex;
+    width: 20%;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+}
+
+.services-text ul li {
+    font-size: 1.2rem;
 }
 
 .services-image {
-    width: 40%;
+    width: 20%;
     overflow: hidden;
     display: flex;
     justify-content: center;
