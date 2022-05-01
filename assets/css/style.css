@@ -35,6 +35,7 @@ button {
     font-weight: bold;
     letter-spacing: 0.1rem;
     box-shadow: 0.2rem 0.2rem 0.3rem #4f6070;
+    transition: all 0.3s linear;
 }
 
 button:hover {
@@ -139,6 +140,7 @@ nav a {
 nav a:hover {
   color: white;
   background-color: #A62639;
+  transition: all 0.2s linear;
 }
 
 .active {
@@ -257,7 +259,7 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 6rem 0;
+    padding: 3rem 0;
 }
 
 #services h3 {
