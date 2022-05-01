@@ -150,14 +150,13 @@ nav a:hover {
 #hero {
     display: flex;
     justify-content: center;
-    overflow: hidden;
-    height: 600px;
+    height: 80vh;
 }
 
 #hero-image {
     background: url('../images/eye-test.jpg');
     background-color: #DCEAF2;
-    height: 600px;
+    height: 80vh;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,6 +238,10 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+#hero-sub-text h3 {
+    font-weight: 700;
 }
 
 #hero-sub-text button {
