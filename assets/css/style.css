@@ -33,7 +33,7 @@ button {
     border-color: #012340;
     font-weight: bold;
     letter-spacing: 0.1rem;
-    box-shadow: 3px 3px 5px #4f6070;
+    box-shadow: 0.2rem 0.2rem 0.3rem #4f6070;
 }
 
 button:hover {
@@ -174,14 +174,18 @@ nav a:hover {
 }
 
 #hero-text-wrapper {
-    width: 30rem;
-    height: 30rem;
+    width: 35rem;
+    height: 28rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.85);
     margin-right: 4rem;
+    border-radius: 0.4rem;
+    /* border: 0.5px solid #4f6070; */
+    box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+
 
     /* animation zoom effect on loading page */
     animation-name: hero-zoom;
@@ -193,6 +197,7 @@ nav a:hover {
 @keyframes hero-zoom {
     from{
         transform: scale(0.8);
+        background-color: rgba(255, 255, 255, 0.5);
     }
     to{
         transform: scale(1);
