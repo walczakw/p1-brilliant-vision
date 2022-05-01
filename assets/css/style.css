@@ -42,6 +42,26 @@ button:hover {
     border-color: #A62639;
 }
 
+/* Global Media Queries */
+
+@media only screen and (max-width: 1024px) {
+    html {
+        font-size: 14px;
+    }   
+}
+
+@media only screen and (max-width: 640px) {
+    html {
+        font-size: 12px;
+    }   
+}
+
+@media only screen and (max-width: 480px) {
+    html {
+        font-size: 10px;
+    }   
+}
+
 
 /* HEADER */
 
