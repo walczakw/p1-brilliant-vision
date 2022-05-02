@@ -325,7 +325,7 @@ nav a:active, a:hover {
 #find-us-box {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 3rem;
     font-size: 1.2rem;
 }
@@ -334,6 +334,10 @@ nav a:active, a:hover {
     font-size: 1.5rem;
     font-weight: 600;
     margin-top: 0;
+}
+
+#opening-hours {
+    margin-left: 6rem;
 }
 
 #opening-hours ul {
@@ -358,6 +362,7 @@ nav a:active, a:hover {
 #map-container {
     margin-top: 3rem;
 }
+
 
 /* Footer */
 
@@ -445,8 +450,16 @@ nav a:active, a:hover {
     #find-us-box {
         display: flex;
         flex-direction: column;
-        align-items: center;
     }   
+
+    #find-us-box h4 {
+        margin-bottom: 0;
+    }
+
+    #opening-hours {
+        margin-top: 2rem;
+        margin-left: 0;
+    }
 }
 
 
