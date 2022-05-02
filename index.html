@@ -94,7 +94,7 @@
                             <li>Dry Eye Therapy</li>
                         </ul>
                     </div>
-                </div>  
+                </div>
                 <div class="services-box">
                     <div class="image-container services-image">
                         <img src="assets/images/glasses-on-display.jpg" alt="eyeglasses on shop display">
@@ -114,7 +114,7 @@
         <section class="section-container">
             <h3>FIND US</h3>
             <div id="find-us-wrapper">
-                <div class="find-us-box">
+                <div id="find-us-box">
                     <div id="address">
                         <h4>Address:</h4>
                         <p>
@@ -132,6 +132,7 @@
                         </p>
                     </div>
                     <div id="opening-hours">
+                        <h4>Opening Times:</h4>
                         <ul>
                             <li>
                                 <strong>Monday</strong>
@@ -165,9 +166,34 @@
                     </div>
                 </div>
                 <div id="map-container">
-
+                    <!-- code for google map taken from https://google-map-generator.com/ -->
+                    <div class="mapouter">
+                        <div class="gmap_canvas"><iframe width="1400" height="400" id="gmap_canvas"
+                                src="https://maps.google.com/maps?q=27%20hight%20street%20killarney&t=&z=17&ie=UTF8&iwloc=&output=embed"
+                                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><br>
+                            <style>
+                                .mapouter {
+                                    overflow: hidden;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    text-align: center;
+                                    height: 25rem;
+                                    width: 100%;
+                                }
+                            </style><a href="https://www.embedgooglemap.net">google map html embed</a>
+                            <style>
+                                .gmap_canvas {
+                                    overflow: hidden;
+                                    background: none !important;
+                                    height: 25rem;
+                                    width: 100%;
+                                }
+                            </style>
+                        </div>
+                    </div>
                 </div>
-            </div>   
+            </div>
         </section>
 
     </main>
