@@ -375,3 +375,13 @@ nav a:active, a:hover {
     }    
 }
 
+/* Find Us */
+@media only screen and (max-width: 800px) {
+    #find-us-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }   
+}
+
+
