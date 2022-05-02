@@ -343,6 +343,7 @@ nav a:active, a:hover {
 
 #opening-hours ul li {
     list-style: none;
+    padding-bottom: 0.5rem;
 }
 
 
