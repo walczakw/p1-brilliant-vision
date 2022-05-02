@@ -87,6 +87,7 @@ button:hover {
 header {
     width: 100%;
     background-color: rgba(255, 255, 255, 0.9);
+    border-bottom: 0.5px solid #ebebeb;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -354,7 +355,7 @@ nav a:active, a:hover {
     align-items: center;
     justify-content: center;
     height: 6rem;
-    background-color: #dedede;
+    background-color: #FFE9E3;
 }
 
 #footer-phone .fa-phone {
@@ -364,11 +365,18 @@ nav a:active, a:hover {
 
 #footer-phone span {
     font-size: 1.4rem;
+    font-weight: 400;
+    padding-left: 0.5rem;
+}
+
+#social-media-icons {
+    margin-left: 6rem;
 }
 
 #social-media-icons ul li {
     list-style: none;
     display: inline-block;
+    padding-left: 1.6rem;
 }
 
 #social-media-icons .fa-brands {
