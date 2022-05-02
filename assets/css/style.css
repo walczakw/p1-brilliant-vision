@@ -331,11 +331,9 @@ nav a:active, a:hover {
 }
 
 #find-us-box h4 {
-    font-size: 1.4rem;
-}
-
-#map-container {
-    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 0;
 }
 
 #opening-hours ul {
@@ -345,8 +343,21 @@ nav a:active, a:hover {
 #opening-hours ul li {
     list-style: none;
     padding-bottom: 0.5rem;
+    display: flex;
 }
 
+#opening-hours ul strong {
+    width: 30%;
+}
+
+#opening-hours ul span {
+    width: 50%;
+    padding-left: 4rem;
+}
+
+#map-container {
+    margin-top: 3rem;
+}
 
 /* Footer */
 
