@@ -44,6 +44,22 @@ button:hover {
     border-color: #A62639;
 }
 
+.section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem 0;
+}
+
+.section-container h3 {
+    font-weight: 500;
+    font-size: 2rem;
+    margin: 2rem 0 0 0;
+    letter-spacing: 0.1rem;
+    border-bottom: 0.2rem solid #A62639;
+}
+
+
 /* Global Media Queries */
 
 @media only screen and (max-width: 1024px) {
@@ -256,21 +272,6 @@ nav a:active, a:hover {
 
 /* Services */
 
-.section-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 4rem 0;
-}
-
-.section-container h3 {
-    font-weight: 500;
-    font-size: 2rem;
-    margin: 2rem 0 0 0;
-    letter-spacing: 0.1rem;
-    border-bottom: 0.2rem solid #A62639;
-}
-
 #services-wrapper {
     display: flex;
     flex-direction: row;
@@ -316,19 +317,32 @@ nav a:active, a:hover {
 
 /* Find Us */
 
+#find-us-wrapper {
+    margin: 2rem 4rem 0 4rem;
+}
+
 #find-us-box {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 3rem;
+    font-size: 1.2rem;
+}
+
+#find-us-box h4 {
+    font-size: 1.4rem;
 }
 
 #map-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    max-width: 100vw;
-    overflow: hidden;
+    margin-top: 3rem;
+}
+
+#opening-hours ul {
+    padding-left: 0;
+}
+
+#opening-hours ul li {
+    list-style: none;
 }
 
 
