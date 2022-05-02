@@ -392,8 +392,10 @@ nav a:active, a:hover {
 #social-media-icons ul li {
     list-style: none;
     display: inline-block;
-    padding-left: 1.6rem;
-    font-size: 0;
+}
+
+#social-media-icons #middle-icon {
+    padding: 0 1.6rem;
 }
 
 #social-media-icons ul a {
@@ -459,6 +461,22 @@ nav a:active, a:hover {
     #opening-hours {
         margin-top: 2rem;
         margin-left: 0;
+    }
+}
+
+/* Footer */
+@media only screen and (max-width: 480px) {
+    #footer-wrapper {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+        padding-top: 0.5rem;
+    }  
+    #social-media-icons {
+        margin-left: 0;
+    }
+    #social-media-icons ul {
+        padding-left: 0;
     }
 }
 
