@@ -356,10 +356,18 @@ nav a:active, a:hover {
 
 #social-media-icons ul li {
     list-style: none;
+    display: inline-block;
 }
 
 #social-media-icons .fa-brands {
-    
+    background: #A62639;
+    font-size: 1.2rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    line-height: 2.5rem;
+    color: white;
+    text-align: center;
 }
 
 
