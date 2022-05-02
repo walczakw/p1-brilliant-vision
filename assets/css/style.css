@@ -384,6 +384,11 @@ nav a:active, a:hover {
     font-size: 0;
 }
 
+#social-media-icons ul li:hover {
+    transform: scale(1.2);
+    transition: 1s;
+}
+
 #social-media-icons .fa-brands {
     background: #A62639;
     font-size: 1.2rem;
