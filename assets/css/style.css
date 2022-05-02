@@ -347,6 +347,22 @@ nav a:active, a:hover {
 }
 
 
+/* Footer */
+
+#footer-wrapper {
+    display: flex;
+
+}
+
+#social-media-icons ul li {
+    list-style: none;
+}
+
+#social-media-icons .fa-brands {
+    
+}
+
+
 
 /* MEDIA QUERIES */
 
