@@ -65,7 +65,7 @@ button:hover {
 
 header {
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.9);
     border-bottom: 0.5px solid #ebebeb;
     display: flex;
     flex-wrap: wrap;
@@ -477,6 +477,7 @@ nav a:active, a:hover {
 
     nav ul li {
         margin: 0;
+        padding: 0 0.8rem;
     }
 
     nav a {
@@ -494,6 +495,10 @@ nav a:active, a:hover {
     #logo h1 {
         font-size: 1.4rem;
     }    
+
+    nav ul li {
+        padding: 0 0.2rem;
+    }
 
     nav a {
         font-size: 1.3rem;
@@ -531,7 +536,7 @@ nav a:active, a:hover {
 @media only screen and (max-width: 940px) {
 
     #hero-image {
-        margin-top: 5.1rem;
+        margin-top: 4.8rem;
         height: 80vh;
         display: flex;
         align-items: flex-end;
