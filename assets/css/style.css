@@ -59,40 +59,6 @@ button:hover {
     border-bottom: 0.2rem solid #A62639;
 }
 
-
-/* Global Media Queries */
-
-@media only screen and (max-width: 1024px) {
-    html {
-        font-size: 14px;
-    }   
-}
-
-@media only screen and (max-width: 870px) {
-    html {
-        font-size: 13px;
-    }   
-}
-
-@media only screen and (max-width: 640px) {
-    html {
-        font-size: 12px;
-    }   
-}
-
-@media only screen and (max-width: 480px) {
-    html {
-        font-size: 11px;
-    }   
-}
-
-@media only screen and (max-width: 350px) {
-    html {
-        font-size: 10px;
-    }   
-}
-
-
 /* HEADER */
 
 header {
