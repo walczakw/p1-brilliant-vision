@@ -36,6 +36,7 @@ button {
     letter-spacing: 0.1rem;
     box-shadow: 0.2rem 0.2rem 0.3rem #4f6070;
     transition: all 0.3s linear;
+    cursor: pointer;
 }
 
 button:hover {
