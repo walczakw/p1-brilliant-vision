@@ -365,7 +365,7 @@ nav a:active, a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 6rem;
+    height: 8rem;
     background-color: #FFE9E3;
 }
 
@@ -390,7 +390,7 @@ nav a:active, a:hover {
 }
 
 #social-media-icons #middle-icon {
-    padding: 0 1.6rem;
+    padding: 0 2rem;
 }
 
 #social-media-icons ul a {
@@ -405,10 +405,10 @@ nav a:active, a:hover {
 #social-media-icons .fa-brands {
     background: #A62639;
     font-size: 1.2rem;
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 3rem;
+    height: 3rem;
     border-radius: 50%;
-    line-height: 2.5rem;
+    line-height: 3rem;
     color: white;
     text-align: center;
 }
@@ -617,13 +617,17 @@ nav a:active, a:hover {
 
 
 /* Footer */
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 540px) {
     #footer-wrapper {
         display: flex;
         flex-direction: column;
-        height: 8rem;
-        padding-top: 0.5rem;
+        height: 10rem;
+        padding-top: 1rem;
     }  
+
+    #footer-phone {
+        margin-bottom: 1rem;
+    }
 
     #social-media-icons {
         margin-left: 0;
