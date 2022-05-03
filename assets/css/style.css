@@ -442,6 +442,18 @@ nav a:active, a:hover {
 /* Header */
 
 /* Hero */
+@media only screen and (max-width: 1100px) {
+    #hero-image {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+
+    #hero-text-wrapper {
+        margin: 0 1rem 1rem 0;
+    }
+}
+
 
 /* Services */
 @media only screen and (max-width: 1380px) {
@@ -487,6 +499,7 @@ nav a:active, a:hover {
     #find-us-box {
         display: flex;
         flex-direction: column;
+        margin-left: 1rem;
     }   
 
     #find-us-box h4 {
