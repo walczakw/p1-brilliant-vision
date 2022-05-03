@@ -361,6 +361,20 @@ nav a:active, a:hover {
 
 #map-container {
     margin-top: 3rem;
+    height: auto;
+    overflow: hidden;
+}
+
+#desktop-map {
+    display: block;
+}
+
+#tablet-map {
+    display: none;
+}
+
+#mobile-map {
+    display: none;
 }
 
 
@@ -462,7 +476,35 @@ nav a:active, a:hover {
         margin-top: 2rem;
         margin-left: 0;
     }
+
+    #desktop-map {
+        display: none;
+    }
+
+    #mobile-map {
+        display: none;
+    }
+
+    #tablet-map {
+        display: block;
+    }
+
 }
+
+@media only screen and (max-width: 480px) {
+    #desktop-map {
+        display: none;
+    }
+
+    #tablet-map {
+        display: none;
+    }
+
+    #mobile-map {
+        display: block;
+    }
+}
+
 
 /* Footer */
 @media only screen and (max-width: 480px) {
@@ -472,9 +514,11 @@ nav a:active, a:hover {
         height: 8rem;
         padding-top: 0.5rem;
     }  
+
     #social-media-icons {
         margin-left: 0;
     }
+
     #social-media-icons ul {
         padding-left: 0;
     }
