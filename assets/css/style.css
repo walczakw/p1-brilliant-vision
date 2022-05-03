@@ -417,8 +417,36 @@ nav a:active, a:hover {
 
 /* MEDIA QUERIES */
 
+/* Global */
+
+@media only screen and (max-width: 1180px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 830px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 362px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+
+
 /* Header */
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 940px) {
     header {
         display: flex;
         flex-direction: column;
@@ -458,7 +486,7 @@ nav a:active, a:hover {
     }
 }
 
-@media only screen and (max-width: 820px) {
+@media only screen and (max-width: 830px) {
     #hero-image {
         display: flex;
         align-items: flex-end;
@@ -469,6 +497,7 @@ nav a:active, a:hover {
         width: 34rem;
         height: 23rem;
         background-color: rgba(255, 255, 255, 0.80);
+        box-shadow: none;
     }
 
     #hero-title-text h3 {
