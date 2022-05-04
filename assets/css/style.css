@@ -50,6 +50,7 @@ button:hover {
     flex-direction: column;
     align-items: center;
     padding: 4rem 0;
+    margin: 0 2rem;
 }
 
 .section-container h3 {
@@ -253,7 +254,7 @@ nav a:active, a:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 2rem 2rem 0 2rem;
+    margin: 2rem 0;
 }
 
 .services-box {
@@ -261,7 +262,7 @@ nav a:active, a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2rem;
+    margin: 1.6rem;
     border: 0.5px solid #4f6070;
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
     border-radius: 0.4rem;
@@ -296,8 +297,13 @@ nav a:active, a:hover {
 
 /* Find Us */
 
+#find-us {
+    width: 100%;
+}
+
 #find-us-wrapper {
-    margin: 2rem 4rem 0 4rem;
+    margin-top: 2rem;
+    padding: 0;
 }
 
 #find-us-box {
@@ -305,6 +311,8 @@ nav a:active, a:hover {
     flex-direction: row;
     justify-content: space-around;
     margin-top: 3rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
     font-size: 1.3rem;
 }
 
@@ -343,10 +351,14 @@ nav a:active, a:hover {
 }
 
 #map-container {
-    margin-top: 3rem;
+    padding: 0;
     height: 400px;
-    width: 100%;
+    width: 90%;
     overflow: hidden;
+}
+
+.section-container:nth-child(4){
+    padding-top: 0;
 }
 
 /* Footer */
