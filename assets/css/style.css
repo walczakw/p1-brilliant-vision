@@ -345,24 +345,9 @@ nav a:active, a:hover {
 
 #map-container {
     margin-top: 3rem;
-    height: auto;
+    height: 400px;
+    width: 100%;
     overflow: hidden;
-}
-
-#desktop-map {
-    display: block;
-}
-
-#tablet-map {
-    display: none;
-}
-
-#mobile-map {
-    display: none;
-}
-
-#xs-mobile-map {
-    display: none;
 }
 
 /* Footer */
@@ -631,23 +616,6 @@ nav a:active, a:hover {
 }
 
 /* Find Us */
-@media only screen and (max-width: 1026px) {
-    #desktop-map {
-        display: none;
-    }
-
-    #tablet-map {
-        display: block;
-    }
-
-    #mobile-map {
-        display: none;
-    }
-
-    #xs-mobile-map {
-        display: none;
-    }
-}
 
 @media only screen and (max-width: 830px) {
     #find-us-box {
@@ -663,58 +631,6 @@ nav a:active, a:hover {
     #opening-hours {
         margin-top: 2rem;
         margin-left: 0;
-    }
-
-    #desktop-map {
-        display: none;
-    }
-
-    #mobile-map {
-        display: none;
-    }
-
-    #tablet-map {
-        display: block;
-    }
-
-    #xs-mobile-map {
-        display: none;
-    }
-}
-
-@media only screen and (max-width: 672px) {
-    #desktop-map {
-        display: none;
-    }
-
-    #tablet-map {
-        display: none;
-    }
-
-    #mobile-map {
-        display: block;
-    }
-
-    #xs-mobile-map {
-        display: none;
-    }
-}
-
-@media only screen and (max-width: 362px) {
-    #desktop-map {
-        display: none;
-    }
-
-    #tablet-map {
-        display: none;
-    }
-
-    #mobile-map {
-        display: none;
-    }
-
-    #xs-mobile-map {
-        display: block;
     }
 }
 
