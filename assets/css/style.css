@@ -252,9 +252,9 @@ nav a:active, a:hover {
 #services-wrapper {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
-    margin: 2rem 4rem 0 4rem;
+    margin: 2rem 2rem 0 2rem;
 }
 
 .services-box {
@@ -275,6 +275,7 @@ nav a:active, a:hover {
 .services-text ul li {
     font-size: 1.3rem;
     list-style-type: square;
+    padding: 0.2rem 0;
 }
 
 .services-image {
@@ -602,9 +603,15 @@ nav a:active, a:hover {
 
 
 /* Services */
-@media only screen and (max-width: 1380px) {
+@media only screen and (max-width: 1370px) {
+
+    #services-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
     .services-box {
-        max-width: 90%;
+        max-width: 100%;
         display: flex;
         flex-direction: row;
     } 
@@ -615,7 +622,6 @@ nav a:active, a:hover {
 
 @media only screen and (max-width: 600px) {
     .services-box {
-        max-width: 90%;
         display: flex;
         flex-direction: column;
     }    
