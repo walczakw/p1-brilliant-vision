@@ -28,6 +28,7 @@ h3 {
 button {
     background-color: #A62639;
     color: white;
+    letter-spacing: 0.1rem;
     border-radius: 1.8rem;
     border-width: 0.2rem;
     padding: 0.7rem 1rem;
@@ -49,8 +50,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 4rem 0;
-    margin: 0 2rem;
+    padding: 4rem 1rem;
 }
 
 .section-container h3 {
@@ -104,6 +104,7 @@ header {
 #logo h1 {
     font-weight: 500;
     font-size: 2rem;
+
     margin: 0;
     letter-spacing: 0.1rem;
     text-shadow: 0 1px 0 #012340;
@@ -131,6 +132,7 @@ nav a {
     color: #012340;
     font-weight: bold;
     font-size: 1.5rem;
+    letter-spacing: 0.1rem;
     padding: 0.1rem 0.4rem;
     border-radius: 0.4rem;
 }
@@ -177,7 +179,7 @@ nav a:active, a:hover {
 }
 
 #hero-text-wrapper {
-    padding: 1rem;
+    padding: 2rem;
     width: 36rem;
     height: 24rem;
     display: flex;
@@ -226,6 +228,7 @@ nav a:active, a:hover {
 
 #hero-title-text h3 {
     font-style: italic;  
+    letter-spacing: 0.1rem;
     margin-top: 0.5rem;
     margin-bottom: 3rem;  
 }
@@ -240,6 +243,7 @@ nav a:active, a:hover {
 
 #hero-sub-text h3 {
     font-weight: 700;
+    letter-spacing: 0.1rem;
 }
 
 #hero-sub-text button {
@@ -269,13 +273,13 @@ nav a:active, a:hover {
 }
 
 .services-text {
-    width: 90%;
+    width: 95%;
 }
 
 .services-text ul li {
     font-size: 1.3rem;
     list-style-type: square;
-    padding: 0.2rem 0;
+    padding: 0.3rem 0;
 }
 
 .services-image {
@@ -417,28 +421,23 @@ nav a:active, a:hover {
 
 /* Global */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1100px) {
     html {
         font-size: 15px;
     }
 }
 
-@media only screen and (max-width: 990px) {
+@media only screen and (max-width: 800px) {
     html {
         font-size: 14px;
     }
 }
 
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 600px) {
     html {
         font-size: 13px;
     }
 }
-
-@media only screen and (max-width: 480px) {
-    html {
-        font-size: 12px;
-    }
 }
 
 
@@ -463,7 +462,8 @@ nav a:active, a:hover {
     }
     
     #logo h1 {
-        font-size: 1.8rem;
+        font-size: 1.8rem;    
+        letter-spacing: 0.1rem;
     } 
 
     nav {
@@ -518,7 +518,7 @@ nav a:active, a:hover {
 
     #hero-text-wrapper {
         margin: 0 3rem 3rem 0;
-        padding: 0 2rem;
+        padding: 0 1rem 1rem 1rem;
         width: 33rem;
         height: 22rem;
     }
@@ -616,6 +616,7 @@ nav a:active, a:hover {
     .services-box {
         display: flex;
         flex-direction: column;
+        max-width: 100%;
     }    
     .services-image img {
         border-radius: 0.4rem 0.4rem 0 0;    
