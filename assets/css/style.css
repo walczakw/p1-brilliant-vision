@@ -299,6 +299,18 @@ nav a:hover {
     border-radius: 0.4rem 0.4rem 0 0;
 }
 
+/* Gallery */
+
+#gallery-wrapper {
+    border: 2px solid black;
+}
+
+.gallery-image {
+    border: 2px solid red;
+    width: 20rem;
+    height: 15rem;
+}
+
 
 /* Find Us */
 
