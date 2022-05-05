@@ -62,11 +62,15 @@ button:hover {
     border-bottom: 0.2rem solid #A62639;
 }
 
+.wrapper-to-offset-header {
+    margin-top: -0.3rem;
+}
+
 /* HEADER */
 
 header {
     width: 100%;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.3);
     box-shadow: 0 2px 10px rgba(0,0,0,.3);
     display: flex;
     flex-wrap: wrap;
@@ -135,11 +139,10 @@ nav a {
     border-radius: 0.4rem;
 }
 
-/* a:active doesn't work */
-nav a:active, a:hover {
-  color: white;
-  background-color: #A62639;
-  transition: all 0.2s linear;
+nav a:hover {
+    color: white;
+    background-color: #A62639;
+    transition: all 0.2s linear;
 }
 
 .active {
@@ -150,13 +153,7 @@ nav a:active, a:hover {
 
 /* Hero */
 
-#hero {
-    display: flex;
-    justify-content: center;
-    height: 85vh;
-}
-
-#hero-image {
+#hero-container {
     background: url('../images/person-wearing-glasses.jpg');
     background-color: #DCEAF2;
     height: 85vh;
@@ -167,7 +164,6 @@ nav a:active, a:hover {
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    margin-top: 1rem;
 }
 
 #hero h3 {
@@ -446,6 +442,31 @@ nav a:active, a:hover {
     }
 }
 
+@media only screen and (max-width: 940px) {
+
+    .wrapper-to-offset-header {
+        margin-top: 4.1rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .wrapper-to-offset-header {
+        margin-top: 2.3rem;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .wrapper-to-offset-header {
+        margin-top: 2.2rem;
+    } 
+}
+/* For extra small screens */
+@media only screen and (max-width: 300px) {
+    .wrapper-to-offset-header {
+        margin-top: 3.5rem;
+    } 
+}
+
 
 /* Header */
 @media only screen and (max-width: 940px) {
@@ -529,11 +550,6 @@ nav a:active, a:hover {
 
 /* Hero */
 @media only screen and (max-width: 1180px) {
-    #hero-image {
-        display: flex;
-        align-items: flex-end;
-        justify-content: flex-end;
-    }
 
     #hero-text-wrapper {
         margin: 0 3rem 3rem 0;
@@ -548,15 +564,14 @@ nav a:active, a:hover {
 }
 
 @media only screen and (max-width: 1024px) {
-    #hero-image {
+    #hero-container {
         height: 75vh;
     }
 }
 
 @media only screen and (max-width: 940px) {
 
-    #hero-image {
-        margin-top: 4.8rem;
+    #hero-container {
         display: flex;
         align-items: flex-end;
         justify-content: center;
@@ -579,9 +594,6 @@ nav a:active, a:hover {
 }
 
 @media only screen and (max-width: 480px) {
-    #hero-image {
-        margin-top: 3.4rem;
-    }
 
     #hero-text-wrapper {
         width: 100%;
@@ -600,9 +612,6 @@ nav a:active, a:hover {
 }
 
 @media only screen and (max-width: 380px) {
-    #hero-image {
-        margin-top: 3rem;
-    } 
 
     #hero-text-wrapper {
         height: 16rem;
