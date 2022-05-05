@@ -50,7 +50,7 @@ button:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 4rem 1rem;
+    padding: 2rem 1rem;
 }
 
 .section-container h3 {
@@ -502,6 +502,7 @@ nav a:active, a:hover {
 
     nav a {
         font-size: 1.3rem;
+        padding: 0 0.3rem;
     }
 }
 
@@ -509,6 +510,19 @@ nav a:active, a:hover {
 
     nav a {
         font-size: 1.2rem;
+    } 
+}
+
+/* for extra small screens */
+@media only screen and (max-width: 320px) {
+
+    nav ul {
+        flex-wrap: wrap;
+    }
+
+    nav a {
+        font-size: 1.1rem;
+        padding: 0 0.2rem;
     } 
 }
 
@@ -603,6 +617,21 @@ nav a:active, a:hover {
     }
 }
 
+@media only screen and (max-width: 320px) {
+
+    #hero-text-wrapper {
+        height: 18rem;
+    }
+}
+
+/* For extra small screens */
+@media only screen and (max-width: 300px) {
+
+    #hero-text-wrapper {
+        height: 22rem;
+    }
+}
+
 
 /* Services */
 @media only screen and (max-width: 1268px) {
@@ -650,19 +679,52 @@ nav a:active, a:hover {
     } 
 
     .services-text {
-        /* padding: 0 1rem 0 0; */
         justify-content: center;
         margin: 0;
     }   
 }
 
 @media only screen and (max-width: 380px) {
+
+    .services-box {
+        box-shadow: 0.4rem 0.4rem 0.4rem #4f6070;
+    }
     
     .services-image {
         width: 20rem;
     }
 }
 
+@media only screen and (max-width: 320px) {
+
+    .services-box {
+        box-shadow: 0.2rem 0.2rem 0.2rem #4f6070;
+    }
+
+    .services-image {
+        width: 18rem;
+    }
+
+    .services-text ul li {
+        list-style: none;
+    }   
+}
+
+/* For extra small screens */
+@media only screen and (max-width: 292px) {
+
+    .services-box {
+        box-shadow: none;
+    }
+
+    .services-image {
+        width: 14rem;
+    }   
+
+    .services-text ul li {
+        font-size: 1.1rem;
+    }  
+}
 
 /* Find Us */
 
@@ -686,18 +748,31 @@ nav a:active, a:hover {
 
 @media only screen and (max-width: 380px) {
 
-    /* #opening-hours ul li {
-        display: flex;
-        flex-direction: column;
-    } */
-
     /* Google map */
     #map-container {
-        padding: 0;
-        margin: 0;
         height: 350px;
     }
 }
+
+@media only screen and (max-width: 320px) {
+
+    #opening-hours ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 1rem;
+    }
+
+    #opening-hours ul li strong {
+        width: unset;
+    }
+
+    #opening-hours ul li span {
+        width: unset;
+        padding-left: 0;
+    }
+}
+
 
 
 /* Footer */
