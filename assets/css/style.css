@@ -303,12 +303,19 @@ nav a:hover {
 
 #gallery-wrapper {
     border: 2px solid black;
+    margin: 2rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .gallery-image {
-    border: 2px solid red;
-    width: 20rem;
-    height: 15rem;
+    width: 18rem;
+    height: 13rem;
+    margin: 1rem 0.5rem;
+    border: 0.5px solid #4f6070;
+    box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+    border-radius: 0.4rem;
 }
 
 
