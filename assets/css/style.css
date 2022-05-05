@@ -716,4 +716,11 @@ nav a:active, a:hover {
     }
 }
 
+@media only screen and (max-width: 1280px) {
+
+    #social-media-icons ul li:hover {
+        transform: none
+    }
+}
+
 
