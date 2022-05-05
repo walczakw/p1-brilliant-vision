@@ -68,7 +68,6 @@ header {
     width: 100%;
     background-color: rgba(255, 255, 255, 0.9);
     box-shadow: 0 2px 10px rgba(0,0,0,.3);
-    /* border-bottom: 0.5px solid #ebebeb; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -103,8 +102,7 @@ header {
 
 #logo h1 {
     font-weight: 500;
-    font-size: 2rem;
-
+    font-size: 1.4rem;
     margin: 0;
     letter-spacing: 0.1rem;
     text-shadow: 0 1px 0 #012340;
@@ -209,7 +207,7 @@ nav a:active, a:hover {
     }
 } */
 
-#hero-title-text{
+#hero-title-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -446,8 +444,6 @@ nav a:active, a:hover {
         font-size: 13px;
     }
 }
-}
-
 
 
 /* Header */
@@ -496,7 +492,7 @@ nav a:active, a:hover {
     }
     
     #logo h1 {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }    
 
     nav ul li {
@@ -511,7 +507,7 @@ nav a:active, a:hover {
 @media only screen and (max-width: 380px) {
 
     nav a {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
     } 
 }
 
@@ -695,6 +691,7 @@ nav a:active, a:hover {
         margin: 0;
         height: 350px;
     }
+}
 
 
 /* Footer */
