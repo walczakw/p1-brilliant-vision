@@ -403,23 +403,33 @@ nav a:hover {
 .contact-form {
     display: flex;
     flex-direction: column;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    font-weight: 500;
     border: 2px solid green;
     padding: 2rem;
 }
 
 .contact-form input {
     margin-bottom: 1rem;
+    font-size: 1.3rem;
 }
 
 .contact-form textarea {
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
+
+fieldset {
     margin-bottom: 1rem;
 }
 
 .contact-form-button {
     margin-top: 1rem;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
+    width: 20rem;
+    align-self: center;
 }
+
 
 /* Footer */
 
