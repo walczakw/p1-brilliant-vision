@@ -63,23 +63,25 @@
                     <input type="number" id="phone" name="phone_number" min="5" max="20" class="text-input" required>
                     <!-- Textarea -->
                     <label for="comments">Comments:</label>
-                    <textarea id="comments" name="comments" cols="20" name="comments" rows="5" maxlength="256" class="text-input"></textarea>
+                    <textarea id="comments" name="comments" cols="20" rows="5" placeholder="Comment text" maxlength="256" class="text-input"></textarea>
                     <!-- Radio buttons - Appointment times -->
-                    If you would like to make an appointment pick preferred time of the day below:</br>
-                    (Not required)
-                    <label for="morning">Morning</label>
-                    <input type="checkbox" id="morning" name="time_preference" value="morning" class="checkbox-input">
-                    <label for="midday">Midday</label>
-                    <input type="checkbox" id="midday" name="time_preference" value="midday" class="checkbox-input">
-                    <label for="afternoon">Afternoon</label>
-                    <input type="checkbox" id="afternoon" name="time_preference" value="afternoon" class="checkbox-input">
+                    <fieldset>
+                        <legend>If you would like to make an appointment pick preferred time of the day below:</legend>
+                        <label for="morning">Morning</label>
+                        <input type="checkbox" id="morning" name="time_preference" value="morning" class="checkbox-input">
+                        <label for="midday">Midday</label>
+                        <input type="checkbox" id="midday" name="time_preference" value="midday" class="checkbox-input">
+                        <label for="afternoon">Afternoon</label>
+                        <input type="checkbox" id="afternoon" name="time_preference" value="afternoon" class="checkbox-input">
+                    </fieldset>
                     <!-- Radio buttons - Way to be contacted -->
-                    How we should contact you?</br>
-                    (Required)
-                    <label for="contact-phone">Phone</label>
-                    <input type="radio" id="contact-phone" name="contact_way_preference" value="phone" class="radio-input" required>
-                    <label for="contact-email">Email</label>
-                    <input type="radio" id="contact-email" name="contact_way_preference" value="email" class="radio-input" required>
+                    <fieldset>
+                        <legend>How we should contact you?</legend>
+                        <label for="contact-phone">Phone</label>
+                        <input type="radio" id="contact-phone" name="contact_way_preference" value="phone" class="radio-input" required>
+                        <label for="contact-email">Email</label>
+                        <input type="radio" id="contact-email" name="contact_way_preference" value="email" class="radio-input" required>
+                    </fieldset>
                     <!-- Submit button -->
                     <input class="contact-form-button" type="submit" value="Send">
                 </form>
