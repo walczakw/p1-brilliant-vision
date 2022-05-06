@@ -29,7 +29,7 @@ h3 {
     display: block;
 }
 
-button {
+.global-button {
     background-color: #A62639;
     color: white;
     letter-spacing: 0.1rem;
@@ -44,7 +44,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.global-button:hover {
     color: #A62639;
     background-color: white;
     border-color: #A62639;
@@ -403,6 +403,7 @@ nav a:hover {
 .contact-form {
     display: flex;
     flex-direction: column;
+    font-size: 1.2rem;
     border: 2px solid green;
     padding: 2rem;
 }
@@ -417,6 +418,7 @@ nav a:hover {
 
 .contact-form-button {
     margin-top: 1rem;
+    font-size: 1.2rem;
 }
 
 /* Footer */
