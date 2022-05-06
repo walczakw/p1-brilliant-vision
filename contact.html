@@ -54,16 +54,16 @@
                     <h3>Make an appointment or send us general query</h3>
                     <!-- Inputs - Contact Information -->
                     <label for="first-name">First Name</label>
-                    <input type="text" id="first-name" name="first_name" class="text-input" required>
+                    <input type="text" id="first-name" name="first_name" minlength="2" maxlength="35" class="text-input" required>
                     <label for="last-name">Last Name</label>
-                    <input type="text" id="last-name" name="last_name" class="text-input" required>
+                    <input type="text" id="last-name" name="last_name" minlength="2" maxlength="35" class="text-input" required>
                     <label for="email">Email Address</label>
-                    <input type="email" id="email" name="email_address" class="text-input" required>
+                    <input type="email" id="email" name="email_address" minlength="5" maxlength="256" class="text-input" required>
                     <label for="phone">Phone Number</label>
-                    <input type="number" id="phone" name="phone_number" class="text-input" required>
+                    <input type="number" id="phone" name="phone_number" min="5" max="20" class="text-input" required>
                     <!-- Textarea -->
                     <label for="comments">Comments:</label>
-                    <textarea id="comments" name="comments" cols="20" name="comments" rows="5" class="text-input"></textarea>
+                    <textarea id="comments" name="comments" cols="20" name="comments" rows="5" maxlength="256" class="text-input"></textarea>
                     <!-- Radio buttons - Appointment times -->
                     If you would like to make an appointment pick preferred time of the day below:</br>
                     (Not required)
