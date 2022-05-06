@@ -154,7 +154,7 @@ nav a:hover {
 /* Hero */
 
 #hero-container {
-    background: url('../images/person-wearing-glasses.jpg');
+    background: url('../images/home-page/person-wearing-glasses.jpg');
     background-color: #DCEAF2;
     height: 85vh;
     width: 100%;
@@ -311,10 +311,15 @@ nav a:hover {
 
 .gallery-image {
     width: 18rem;
-    height: 13rem;
+    height: 12rem;
+    overflow: hidden;
     margin: 1rem 0.5rem;
     border: 0.5px solid #4f6070;
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+    border-radius: 0.4rem;
+}
+
+.gallery-image img {
     border-radius: 0.4rem;
 }
 
@@ -792,6 +797,17 @@ nav a:hover {
         font-size: 1.1rem;
     }  
 }
+
+/* Gallery */
+
+@media only screen and (max-width: 292px) {
+    .gallery-image {
+        width: 15rem;
+        height: 10rem;
+        box-shadow: 0.2rem 0.2rem 0.2rem #4f6070;
+    }
+}
+
 
 /* Find Us */
 
