@@ -394,12 +394,24 @@ nav a:hover {
 
 /* Contact form*/
 
+#contact-form-wrapper {
+    border: 2px solid red;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
 .contact-form {
     display: flex;
     flex-direction: column;
+    border: 2px solid green;
+    padding: 2rem;
 }
 
 .contact-form input {
+    margin-bottom: 1rem;
+}
+
+.contact-form textarea {
     margin-bottom: 1rem;
 }
 
