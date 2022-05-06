@@ -394,7 +394,18 @@ nav a:hover {
 
 /* Contact form*/
 
+.contact-form {
+    display: flex;
+    flex-direction: column;
+}
 
+.contact-form input {
+    margin-bottom: 1rem;
+}
+
+.contact-form-button {
+    margin-top: 1rem;
+}
 
 /* Footer */
 
