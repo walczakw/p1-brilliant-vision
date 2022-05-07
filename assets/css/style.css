@@ -355,12 +355,27 @@ nav a:hover {
     margin-top: 0;
 }
 
+#address {
+    border: 0.5px solid #4f6070;
+    box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+    border-radius: 0.4rem;
+    padding: 2rem;
+    width: 45%;
+    background-color: #E4E3E8;
+}
+
 #address strong {
     font-weight: 700;
 }
 
 #opening-hours {
     margin-left: 6rem;
+    border: 0.5px solid #4f6070;
+    box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+    border-radius: 0.4rem;
+    padding: 2rem;
+    width: 45%;
+    background-color: #E4E3E8;
 }
 
 #opening-hours ul {
@@ -381,12 +396,14 @@ nav a:hover {
 #opening-hours ul span {
     width: 60%;
     padding-left: 4rem;
+    padding-right: 0;
 }
 
 /* Google map */
 
 #map-wrapper {
     padding-top: 0;
+    margin: 0 3rem;
 }
 
 #location-map {
@@ -890,31 +907,58 @@ fieldset .fieldset-input {
 }
 
 
-/* Find Us */
+/* Location */
 
-@media only screen and (max-width: 830px) {
+@media only screen and (max-width: 860px) {
 
     #find-us-box {
         display: flex;
         flex-direction: column;
-        margin-left: 1rem;
+        justify-content: center;
+        align-items: center;
     }   
 
     #find-us-box h3 {
         margin-bottom: 0;
     }
 
+    #address {
+        width: 100%;
+    }
+
     #opening-hours {
         margin-top: 2rem;
         margin-left: 0;
+        width: 100%
     }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 450px) {
+
+    #address {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    #opening-hours {
+        width: 90%;
+        padding: 1rem;
+    }
 
     /* Google map */
     #map-container {
         height: 350px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+
+    #address {
+        box-shadow: none;
+    }
+
+    #opening-hours {
+        box-shadow: none;
     }
 }
 
