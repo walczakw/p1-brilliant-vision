@@ -21,6 +21,7 @@ h1, h2 {
 
 h3 {
     font-family: 'Lora', serif;
+    letter-spacing: 1px;
 }
 
 .image-container img {
@@ -351,7 +352,6 @@ nav a:hover {
 #find-us-box h3 {
     font-size: 1.6rem;
     font-weight: 700;
-    letter-spacing: 0.1rem;
     margin-top: 0;
 }
 
@@ -409,6 +409,10 @@ nav a:hover {
     padding: 2rem;
 }
 
+.contact-form h3 {
+    align-self: center;
+}
+
 .contact-form input {
     margin-bottom: 1rem;
     font-size: 1.3rem;
@@ -428,13 +432,11 @@ fieldset {
     align-items: center;
 }
 
-fieldset .checkbox-input {
-    margin: 0 2rem 0 0.5rem;
-    width: 1.3rem;
-    height: 1.3rem;
+fieldset legend {
+    padding: 0 0.5rem;
 }
 
-fieldset .radio-input {
+fieldset .fieldset-input {
     margin: 0 2rem 0 0.5rem;
     width: 1.3rem;
     height: 1.3rem;
