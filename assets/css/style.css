@@ -423,11 +423,15 @@ nav a:hover {
     margin-bottom: 1rem;
     font-size: 1.3rem;
     padding: 0.5rem;
+    border: 0.1rem solid #bfcad4;
+    box-shadow: 0.3rem 0.3rem 0.3rem #bfcad4;
 }
 
 .contact-form textarea {
     margin-bottom: 1rem;
     font-size: 1.3rem;
+    border: 0.1rem solid #bfcad4;
+    box-shadow: 0.3rem 0.3rem 0.3rem #bfcad4;
 }
 
 fieldset {
@@ -437,6 +441,8 @@ fieldset {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    border: 0.1rem solid #bfcad4;
+    box-shadow: 0.3rem 0.3rem 0.3rem #bfcad4;
 }
 
 fieldset legend {
