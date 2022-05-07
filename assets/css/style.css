@@ -421,6 +421,23 @@ nav a:hover {
 
 fieldset {
     margin-bottom: 1rem;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset .checkbox-input {
+    margin: 0 2rem 0 0.5rem;
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+fieldset .radio-input {
+    margin: 0 2rem 0 0.5rem;
+    width: 1.3rem;
+    height: 1.3rem;
 }
 
 .contact-form-button {
