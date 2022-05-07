@@ -384,13 +384,19 @@ nav a:hover {
 }
 
 /* Google map */
-#map-container {
-    padding: 0;
-    margin: 0;
+
+#map-wrapper {
+    padding-top: 0;
+}
+
+#location-map {
     height: 400px;
     width: 100%;
     overflow: hidden;
+    margin-top: 0;
+    margin-bottom: 2rem;
 }
+
 
 /* Contact form*/
 
