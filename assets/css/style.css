@@ -538,6 +538,28 @@ fieldset .fieldset-input {
 
 /* Confirmation page */
 
+#confirmation {
+
+}
+
+#confirmation-wrapper {
+    border: 0.5px solid #4f6070;
+    box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
+    border-radius: 0.4rem;
+    padding: 3rem;
+    background-color: #E4E3E8;
+}
+
+#confirmation-wrapper p {
+    font-family: 'Lora', serif;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+#confirmation-wrapper button {
+
+}
+
 
 
 
