@@ -946,6 +946,11 @@ fieldset .fieldset-input {
     }
 
     /* Google map */
+
+    #map-wrapper {
+        margin: 0 1rem;
+    }
+
     #map-container {
         height: 350px;
     }
