@@ -359,7 +359,7 @@ nav a:hover {
     border: 0.5px solid #4f6070;
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
     border-radius: 0.4rem;
-    padding: 2rem;
+    padding: 3rem 3rem 2rem;
     width: 45%;
     background-color: #E4E3E8;
 }
@@ -373,7 +373,7 @@ nav a:hover {
     border: 0.5px solid #4f6070;
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
     border-radius: 0.4rem;
-    padding: 2rem;
+    padding: 3rem 3rem 2rem;
     width: 45%;
     background-color: #E4E3E8;
 }
@@ -909,7 +909,7 @@ fieldset .fieldset-input {
 
 /* Location */
 
-@media only screen and (max-width: 860px) {
+@media only screen and (max-width: 940px) {
 
     #find-us-box {
         display: flex;
@@ -924,12 +924,14 @@ fieldset .fieldset-input {
 
     #address {
         width: 100%;
+        padding: 2rem 2rem 2rem;
     }
 
     #opening-hours {
+        width: 100%;
         margin-top: 2rem;
         margin-left: 0;
-        width: 100%
+        padding: 2rem 2rem 2rem;
     }
 }
 
@@ -937,12 +939,12 @@ fieldset .fieldset-input {
 
     #address {
         width: 90%;
-        padding: 1rem;
+        padding: 1rem 1rem 1rem;
     }
 
     #opening-hours {
         width: 90%;
-        padding: 1rem;
+        padding: 1rem 1rem 1rem;
     }
 
     /* Google map */
