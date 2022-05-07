@@ -413,6 +413,8 @@ nav a:hover {
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
     border-radius: 0.4rem;
     padding: 1rem 3rem 3rem 3rem;
+    /* background-color: #ECEBF0; */
+    background-color: #E4E3E8;
 }
 
 .contact-form h3 {
