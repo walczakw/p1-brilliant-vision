@@ -422,6 +422,7 @@ nav a:hover {
 .contact-form input {
     margin-bottom: 1rem;
     font-size: 1.3rem;
+    padding: 0.5rem;
 }
 
 .contact-form textarea {
@@ -519,7 +520,7 @@ fieldset .fieldset-input {
 
 /* Global */
 
-/* Global font size */
+/* Global font sizes */
 @media only screen and (max-width: 1100px) {
     html {
         font-size: 15px;
@@ -919,6 +920,52 @@ fieldset .fieldset-input {
     #opening-hours ul li span {
         padding-left: 0;
         width: unset;
+    }
+}
+
+
+/* Contact */
+
+@media only screen and (max-width: 486px) {
+
+    .contact-form {
+        font-size: 1.2rem;
+        box-shadow: 0.4rem 0.4rem 0.4rem #4f6070;
+        padding: 1rem 2rem 2rem 2rem;
+    }
+
+    .contact-form label {
+        font-size: 1.1rem;
+    }
+
+    fieldset .fieldset-input {
+        margin: 0 1rem 0 0.4rem;
+    }
+
+    .contact-form-button {
+        font-size: 1.2rem;
+        width: 16rem;
+    }
+}
+
+@media only screen and (max-width: 386px) {
+
+    fieldset {
+        display: flex;
+        flex-direction: column;
+    }
+
+    fieldset .fieldset-input {
+        margin: 0.2rem 0 1rem 0;
+    }
+}
+
+/* For extra small screens */
+@media only screen and (max-width: 292px) {
+
+    .contact-form {
+        box-shadow: none;
+        padding: 1rem 1rem 2rem 1rem;
     }
 }
 
