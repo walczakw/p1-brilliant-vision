@@ -569,6 +569,12 @@ fieldset .fieldset-input {
     text-align: center;
 }
 
+#confirmation-wrapper h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
 #confirmation-wrapper button {
     font-size: 1.3rem;
     width: 10rem;
@@ -1106,9 +1112,18 @@ fieldset .fieldset-input {
 @media only screen and (max-width: 450px) {
 
     #confirmation-wrapper {
-        padding: 2rem;
+        padding: 1rem;
         box-shadow: 0.4rem 0.4rem 0.4rem #4f6070;
     }
+
+    #confirmation-wrapper h2 {
+        font-size: 1.4rem;
+    }
+
+    #confirmation-wrapper p {
+        font-size: 1.2rem;
+    }
+
 
     #confirmation-wrapper button {
         width: 9rem;
