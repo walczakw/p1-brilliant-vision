@@ -544,13 +544,13 @@ fieldset .fieldset-input {
 }
 
 
-/* Confirmation page */
+/* Confirmation (thank-you page and 404 error page) */
 
-#confirmation {
+.confirmation {
     margin-top: 4rem;
 }
 
-#confirmation-wrapper {
+.confirmation-wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -561,7 +561,7 @@ fieldset .fieldset-input {
     background-color: #E4E3E8;
 }
 
-#confirmation-wrapper p {
+.confirmation-wrapper p {
     font-family: 'Lora', serif;
     font-size: 1.5rem;
     font-weight: 700;
@@ -569,13 +569,13 @@ fieldset .fieldset-input {
     text-align: center;
 }
 
-#confirmation-wrapper h2 {
+.confirmation-wrapper h2 {
     font-size: 2rem;
     font-weight: 600;
     letter-spacing: 1px;
 }
 
-#confirmation-wrapper button {
+.confirmation-wrapper button {
     font-size: 1.3rem;
     width: 10rem;
     margin: 1rem 0;
@@ -1107,25 +1107,25 @@ fieldset .fieldset-input {
 }
 
 
-/* Confirmation page */
+/* Confirmation (thank-you page and 404 error page) */
 
 @media only screen and (max-width: 450px) {
 
-    #confirmation-wrapper {
+    .confirmation-wrapper {
         padding: 1rem;
         box-shadow: 0.4rem 0.4rem 0.4rem #4f6070;
     }
 
-    #confirmation-wrapper h2 {
+    .confirmation-wrapper h2 {
         font-size: 1.4rem;
     }
 
-    #confirmation-wrapper p {
+    .confirmation-wrapper p {
         font-size: 1.2rem;
     }
 
 
-    #confirmation-wrapper button {
+    .confirmation-wrapper button {
         width: 9rem;
     }    
 }
