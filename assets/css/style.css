@@ -330,8 +330,13 @@ nav a:hover {
 
 .gallery-image img {
     border-radius: 0.4rem;
-    width: 100%;
+    width: 18rem;
     height: 12rem;
+    transition:transform 0.25s ease;
+}
+
+.gallery-image img:hover {
+    transform: scale(1.5);
 }
 
 
