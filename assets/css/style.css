@@ -586,6 +586,11 @@ fieldset .fieldset-input {
     margin: 1rem 0;
 }
 
+.error-page h2 {
+    color: #012340;
+    border-bottom: 0.2rem solid #A62639;
+}
+
 
 /* MEDIA QUERIES */
 
