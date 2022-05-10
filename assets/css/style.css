@@ -63,8 +63,8 @@ h3 {
 }
 
 .section-container .section-header {
+    font-family: 'Halant', serif;
     color: #012340;
-    font-weight: 500;
     font-size: 2rem;
     font-weight: 600;
     margin: 2rem 0 0 0;
@@ -574,12 +574,6 @@ fieldset .fieldset-input {
     text-align: center;
 }
 
-.confirmation-wrapper h2 {
-    font-size: 2rem;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
-
 .confirmation-wrapper button {
     font-size: 1.3rem;
     width: 10rem;
@@ -587,6 +581,10 @@ fieldset .fieldset-input {
 }
 
 .error-page h2 {
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 1px;
     color: #012340;
     border-bottom: 0.2rem solid #A62639;
 }
