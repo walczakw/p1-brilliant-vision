@@ -188,25 +188,8 @@ nav a:hover {
     margin-right: 4rem;
     margin-bottom: 4rem;
     border-radius: 0.4rem;
-    /* border: 0.5px solid #4f6070; */
     box-shadow: 0.6rem 0.6rem 0.6rem #4f6070;
-
-    /* animation zoom effect on loading page */
-    /* animation-name: hero-zoom;
-    animation-duration: 3s;
-    animation-fill-mode: forwards; */
 }
-
-/* level of zoom for hero text wrapper */
-/* @keyframes hero-zoom {
-    from{
-        transform: scale(0.9);
-        background-color: rgba(255, 255, 255, 0.5);
-    }
-    to{
-        transform: scale(1);
-    }
-} */
 
 #hero-text-wrapper h3 {
     font-size: 2.1rem;
@@ -308,6 +291,7 @@ nav a:hover {
     height: auto;
     border-radius: 0.4rem 0.4rem 0 0;
 }
+
 
 /* Gallery */
 
@@ -412,6 +396,7 @@ nav a:hover {
     padding-left: 4rem;
     padding-right: 0;
 }
+
 
 /* Google map */
 
@@ -761,7 +746,6 @@ fieldset .fieldset-input {
 }
 
 
-
 /* Hero */
 @media only screen and (max-width: 1180px) {
 
@@ -968,6 +952,7 @@ fieldset .fieldset-input {
         font-size: 1.1rem;
     }  
 }
+
 
 /* Gallery */
 
