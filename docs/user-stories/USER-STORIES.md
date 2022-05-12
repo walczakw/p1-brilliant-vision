@@ -1,70 +1,110 @@
 # User Stories
 
-Title: 
-Create header section
-Description:
+## 1. Create header section
+
+__Description:__
+
 As a user I would like to see a fixed header at the top of each page. A header will display the company logo on the left and menu navigation on the right. 
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create hero section
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 2. Create hero section
+
+__Description:__
+
 As a user I would like to see a hero section underneath a header. The hero section will display a picture on the left and a text on the right. 
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create ‘Services’ section
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 3. Create ‘Services’ section
+
+__Description:__
+
 As a user I would like to see a ‘Services’ section displayed underneath the hero section. The ‘Services’ section will display services offered and an image. This section will consist of two sub-sections. First subsection will display a list of services on the left and a picture on the right. Second will display an image on the left and list of services on the right. 
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create ‘Find Us’ section
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 4. Create ‘Find Us’ section
+
+__Description:__
+
 As a user I would like to see a ‘Find Us’ section displayed underneath the ‘Services’ section. The ‘Find Us’ section will display address and opening times and a map. This section will consist of two sub-sections. First subsection will display an address on the left and opening times on the right. Second will display a google map. 
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a footer section
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 5. Create a footer section
+
+__Description:__
+
 As a user I would like to see a footer section at the very bottom of each page. A footer will display contact phone number on the left and links to social media on the right. 
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a ‘Gallery’ page
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 6. Create a ‘Gallery’ page
+
+__Description:__
+
 As a user I would like to see a ‘Gallery’ page with images of eyeglasses/frames. The ‘Gallery’ page will be fully responsive and will display 16 images. User will see 4 images in one row in desktop view, 3 or 2 images in tablet view (depending on screen resolution) and 1 picture per row on mobile screens.
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a ‘Contact Form’ page
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 7. Create a ‘Contact Form’ page
+
+__Description:__
+
 As a user I would like to see a ‘Contact Form’ page. The ‘Contact Form’ will consist of X sections: Name, Phone Number, Preferred appointment time (morning, afternoon, evening), Send button.
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a ‘Thank you’ page
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 8. Create a ‘Thank you’ page
+
+__Description:__
+
 As a user I would like to see a ‘Thank you’ page after sending the contact form. The ‘Thank you’ page will display text “Thank you for sending the form. We will contact you within 1 business day”. Under the text there will be a line of text “Go back to home page” and a button with text “Home”.
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a ‘404’ page
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 9. Create a ‘404’ page
+
+__Description:__
+
 As a user I would like to see a ‘404’’ page in case an incorrect url address is entered. The ‘404’ page will display the text “We are sorry…”. Under the text there will be a line of text “Go back to home page” and a button with text “Home”.
 Refer to attached wireframes for more details.
-Acceptance Criteria:
 
-Title:
-Create a favicon
-Description:
+__Acceptance Criteria:__
+
+--- 
+
+## 10. Create a favicon
+
+__Description:__
+
 As a user I would like to see a favicon on the browser page title.
-Acceptance Criteria:
+
+__Acceptance Criteria:__
+
+--- 
