@@ -527,6 +527,11 @@ fieldset .fieldset-input {
     text-shadow: 1px 1px 1px #012340;
 }
 
+#footer-phone a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 #social-media-icons {
     margin-left: 6rem;
 }
