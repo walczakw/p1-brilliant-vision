@@ -441,7 +441,8 @@ nav a:hover {
     align-self: center;
 }
 
-.contact-form input {
+.contact-form .text-input {
+    font-family: 'Nunito', sans-serif;
     margin-bottom: 1rem;
     font-size: 1.3rem;
     padding: 0.5rem;
@@ -449,18 +450,7 @@ nav a:hover {
     box-shadow: 0.3rem 0.3rem 0.3rem #bfcad4;
 }
 
-.contact-form input:hover {
-    border: 0.5px solid #4f6070;
-}
-
-.contact-form textarea {
-    margin-bottom: 1rem;
-    font-size: 1.3rem;
-    border: 0.1rem solid #bfcad4;
-    box-shadow: 0.3rem 0.3rem 0.3rem #bfcad4;
-}
-
-.contact-form textarea:hover {
+.contact-form .text-input:hover {
     border: 0.5px solid #4f6070;
 }
 
