@@ -114,19 +114,19 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 - __Contact Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to ...
 
 ![Contact](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/contact.png)
 
 - __Thank You Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to ...
 
 ![Thank You](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/thank-you.png)
 
 - __404 Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to ...
 
 ![404](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/404.png)
 
