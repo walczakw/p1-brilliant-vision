@@ -1,5 +1,7 @@
 # Brilliant Vision
 
+## Introduction
+
 [View the live project here](https://walczakw.github.io/p1-brilliant-vision/)
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
@@ -7,6 +9,21 @@ In this section, you will include one or two paragraphs providing an overview of
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
 ![Responsice Mockup](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/responsive-mockup.png)
+
+## Index
+
+## Site Objectives 
+
+- external user's goals
+- site owner goals
+
+### User stories & Project board
+
+## UX Design
+
+### Wireframes
+
+### Color palette choice and Accessibility
 
 ## Features 
 
@@ -99,6 +116,10 @@ If this section grows too long, you may want to split it off into a separate fil
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accesibility
+- Performance
+
+### Responsiveness 
 
 ### Unfixed Bugs
 
