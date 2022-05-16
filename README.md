@@ -71,22 +71,22 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 - __Header with Navigation__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, the full responsive, fixed header includes links to the Logo, Home page, Gallery, Location and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Header](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/header.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes an image with text overlay to allow the user to see the company's name, purpose and overall location. 
+  - This section also includes a 'Book your appointment' button for a quick access to the booking form which brings value to users wanting to quickly access this feature.
 
 ![Hero](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/hero.png)
 
 - __Services section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The Services section allows the user to see an overview of services offered together with images for visual representation for some of the services.
+  -  This section will help users decide if the business provides services needed.
 
 ![Services](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/services.png)
 
