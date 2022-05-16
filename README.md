@@ -20,7 +20,7 @@ The site targets anyone needing opticians services and provides essential inform
 ## UX
 
 ### Site Objectives 
-The following goals were gathered to find common goals and then to form the site requirements.
+The following information was gathered to find common goals and then to form the site requirements.
 
 #### Main external user's goals
 - To find information about services offered.
@@ -35,11 +35,11 @@ The following goals were gathered to find common goals and then to form the site
 - To provide all site elements in an accessible way, especially for people with visual impairments.
 
 ### User stories & Project board
-- The site requirements were put into user stories - link to a separate document listing all user stories.
-- The user stories were then converted into issues for development. The Github Project was created to manage the issues. 
+- The site requirements were put into user stories. [Link to a separate document listing all user stories](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/user-stories/USER-STORIES.md)
+- The user stories were then converted into issues for development. The Github Project was created to manage the issues. [Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
   - Four columns were added to the Project's board: 'To do', 'In progress', 'Testing' and 'Done'.
   - A label was assigned to each issue for easier identification on a board.
-  - Once the issue was developed and tested it went to a 'Done' column and was closed.
+  - Once the issue was developed and tested it went to a 'Done' column and status changed to 'closed'.
 
 ### Wireframes
 
