@@ -92,22 +92,23 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes the phone number for the Brilliant Vision.
+  - The footer section also includes links to the relevant social media sites for the Brilliant Vision. The links will open in a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery section displays a selection of images of glasses and sunglasses to catch the user's attention.
+  - This section is valuable to the user as they will be able to see the latest offer.
 
 ![Gallery](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/gallery.png)
 
 - __Location Page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section displays business address, phone number, email, opening times and a google map.
+  - This section will benefit users who want to quickly check where the Brilliant Vision is located and what the latest business hours or contact details are.
 
 ![Location](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/location.png)
 
