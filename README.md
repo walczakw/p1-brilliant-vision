@@ -46,8 +46,9 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool. [L
 - Firstly, the basic concept was added to display the site on mobile devices (phones and tablets). The goal was to show the layout of each element on the site. [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-mobile-and-tablet.png)
 - Secondly, a separate wireframe was added to show how images on the 'Gallery' page will be displayed on bigger screens (e.g. tablets). [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-gallery-page-tablet.png)
 - Lastly, the wireframes for the desktop were added together with more details such as potential color choice or sample images. These wireframes also include additional pages: 'Query form', 'Thank you' and '404 error'. [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-desktop.png)
-- During the development stage, some changes were made to the initial concept:
-  - 
+- During the development stage, some changes were made to the initial concept. Main changes:
+  - The decision has been made to put sections of the website into separate pages rather than to have a one scrollable page. This was to reduce the number of nav bar menu items by one so that there would be more space on smaller screens. This would not be necessary if a 'hamburger' type of menu was planned.
+  - The landing page ('Hero' section) now has a background image visible at 100% screen width and 85% view height. This change was applied after receiving feedback from a test user who looked at the wireframes and suggested it for a more "professional" look.
 
 
 ### Color palette choice and Accessibility
