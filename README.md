@@ -12,10 +12,10 @@ The site targets anyone needing opticians services and provides essential inform
 ## Index
 1. [**Introduction**](#introduction)
 2. [**UX**](#UX)
-  * [***Site Objectives***](#site-objectives)
-  * [***User stories & Project board***](#user-stories-&-project-board)
-  * [***Wireframes***](#wireframes)
-  * [***Color palette choice and Accessibility***](#color-palette-choice-and-accessibility)
+   * [***Site Objectives***](#site-objectives)
+   * [***User stories & Project board***](#user-stories-&-project-board)
+   * [***Wireframes***](#wireframes)
+   * [***Color palette choice and Accessibility***](#color-palette-choice-and-accessibility)
 
 ## UX
 
@@ -42,6 +42,13 @@ The following information was gathered to find common goals and then to form the
   - Once the issue was developed and tested it went to a 'Done' column and status changed to 'closed'.
 
 ### Wireframes
+The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool. [Link to all wireframes in .pdf format](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframes.pdf)
+- Firstly, the basic concept was added to display the site on mobile devices (phones and tablets). The goal was to show the layout of each element on the site. [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-mobile-and-tablet.png)
+- Secondly, a separate wireframe was added to show how images on the 'Gallery' page will be displayed on bigger screens (e.g. tablets). [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-gallery-page-tablet.png)
+- Lastly, the wireframes for the desktop were added together with more details such as potential color choice or sample images. These wireframes also include additional pages: 'Query form', 'Thank you' and '404 error'. [Link to wireframe](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframe-desktop.png)
+- During the development stage, some changes were made to the initial concept:
+  - 
+
 
 ### Color palette choice and Accessibility
 
