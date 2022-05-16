@@ -3,7 +3,7 @@
 ## Introduction
 
 The “Brilliant Vision” is a small business website of a local opticians in Killarney, Ireland. 
-The site targets anyone needing opticians services and provides essential information for potential customers such as a list of services offered, booking an appointment form, location of the store with its opening hours and a google map. It also contains a ‘Gallery’ page showcasing glasses and sunglasses.
+The site targets anyone needing opticians services and provides essential information for potential customers such as a list of services offered, the appointment booking form, location of the store with its opening hours and a google map. It also contains a ‘Gallery’ page showcasing glasses and sunglasses.
 
 [View the live project here](https://walczakw.github.io/p1-brilliant-vision/)
 
@@ -11,13 +11,28 @@ The site targets anyone needing opticians services and provides essential inform
 
 ## Index
 1. [**Introduction**](#introduction)
+2. [**UX**](#UX)
+  * [***Site Objectives***](#site-objectives)
+  * [***User stories & Project board***](#user-stories-&-project-board)
+  * [***Wireframes***](#wireframes)
+  * [***Color palette choice and Accessibility***](#color-palette-choice-and-accessibility)
 
 ## UX
 
 ### Site Objectives 
+The following goals were gathered to find common goals and then to form the site requirements.
 
-- external user's goals
-- site owner goals
+### Main external user's goals
+- To find information about services offered.
+- To find information about location, phone number, email and opening hours.
+- To find information about how to book an appointment.
+
+### Main site owner's goals
+- To provide location information together with a google map to help potential customers with finding the store more easily.
+- To provide a way of booking an appointment for the customers.
+- To provide a way of sending online queries for the customers.
+- To show examples of glasses and sunglasses offered in the form of 'Gallery' page.
+- To provide all site elements in an accessible way, especially for people with visual impairments.
 
 ### User stories & Project board
 
