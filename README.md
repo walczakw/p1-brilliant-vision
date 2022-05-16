@@ -2,24 +2,24 @@
 
 ## Introduction
 
+The “Brilliant Vision” is a small business website of a local opticians in Killarney, Ireland. 
+The site targets anyone needing opticians services and provides essential information for potential customers such as a list of services offered, booking an appointment form, location of the store with its opening hours and a google map. It also contains a ‘Gallery’ page showcasing glasses and sunglasses.
+
 [View the live project here](https://walczakw.github.io/p1-brilliant-vision/)
-
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
 ![Responsice Mockup](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/responsive-mockup.png)
 
 ## Index
+1. [**Introduction**](#introduction)
 
-## Site Objectives 
+## UX
+
+### Site Objectives 
 
 - external user's goals
 - site owner goals
 
 ### User stories & Project board
-
-## UX Design
 
 ### Wireframes
 
@@ -109,6 +109,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+### Manual Testing
+
+### Testing User Stories
 
 ### Validator Testing 
 
