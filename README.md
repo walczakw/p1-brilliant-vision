@@ -7,7 +7,7 @@ The site targets anyone needing opticians services and provides essential inform
 
 [View the live project here](https://walczakw.github.io/p1-brilliant-vision/)
 
-![Responsice Mockup](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/responsive-mockup.png)
+![Responsive Mockup](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/responsive-mockup.png)
 
 ## Index
 1. [**Introduction**](#introduction)
@@ -52,6 +52,12 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool. [L
 
 
 ### Color palette choice and Accessibility
+- When choosing the color pallete, Accessibility  played a big role. The colors had to be visible to people with different visual impairments as much as possible. 
+- The color 'red' was picked as the main color and then the right shade of 'red' has been chosen to correspond well with the main 'Hero' image and company's logo. 
+- Then, colors for main text, background colors and links were picked to match the site's design and also to be WCAG 2.0 compliant at the same time. 
+- Each color was checked using different contrast checking tools, e.g. [WebAIM](https://webaim.org/resources/contrastchecker/)
+- The Contrast Grid was also generated to only show AAA compliant color combinations:
+![Color Contrast Grid](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contrast-grid-wcag.png)
 
 ## Features 
 
