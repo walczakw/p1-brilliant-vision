@@ -146,8 +146,12 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ### Features Left to Implement
 
-- The tooltips could be added for the social media icons in the footer
-- The Contact form page could be connected to the database to save data entered and send by the users
+- The header would benefit from having a hamburger style for menu items for mobile screens.
+- The Contact form page could be connected to the database to save data entered and sent by the users.
+- The calendar feature could be added so that users can pick exact time and day for the appointment and see the available times/days.
+- The whole website could be one scrollable page.
+- The Services section could be expanded so that each service is clickable. Users could see more information about each service.
+- The tooltips could be added for the social media icons in the footer.
 
 
 ## Testing 
