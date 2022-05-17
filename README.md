@@ -41,7 +41,7 @@ The following information was gathered to find common goals and then to form the
 
 ### User stories & Project board
 - The site requirements were put into user stories. [Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/user-stories/USER-STORIES.md) to a separate document listing all user stories.
-- The user stories were then converted into issues for development. The Github Project was created to manage the issues. [Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
+- The user stories were then converted into issues for development. The Github Project was created to manage the issues. Any bugs found during the development process that were not fixed immediately were also added to the board. [Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
   - Four columns were added to the Project's board: 'To do', 'In progress', 'Testing' and 'Done'.
   - A label was assigned to each issue for easier identification on a board.
   - Once the issue was developed and tested it went to a 'Done' column and status changed to 'closed'.
@@ -61,7 +61,7 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The color 'red' was picked as the main color and then the right shade of 'red' has been chosen to correspond well with the main 'Hero' image and company's logo. The [Adobe Color](https://color.adobe.com/create/image) 'extract theme' tool was used.
 - Then, colors for main text, background colors and links were picked to match the site's design and also to be WCAG 2.0 compliant at the same time. 
 - Each color was checked using different contrast checking tools, e.g. [WebAIM](https://webaim.org/resources/contrastchecker/)
-- The Contrast Grid was also generated to only show AAA compliant color combinations:
+- The [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23012340%0D%0A%23A62639%0D%0A%23FFFFFF%0D%0A%23E8E9ED%0D%0A%23004C8F%0D%0A%0D%0A%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa) was also generated to only show AAA compliant color combinations:
 
 ![Color Contrast Grid](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contrast-grid-wcag.png)
 
