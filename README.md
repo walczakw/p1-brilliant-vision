@@ -76,6 +76,7 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ![Header](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/header.png)
 
+
 - __The landing page image__
 
   - The landing includes an image with text overlay to allow the user to see the company's name, purpose and overall location. 
@@ -83,12 +84,14 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ![Hero](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/hero.png)
 
+
 - __Services section__
 
   - The Services section allows the user to see an overview of services offered together with images for visual representation for some of the services.
   -  This section will help users decide if the business provides services needed.
 
 ![Services](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/services.png)
+
 
 - __The Footer__ 
 
@@ -98,37 +101,48 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ![Footer](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/footer.png)
 
+
 - __Gallery__
 
-  - The gallery section displays a selection of images of glasses and sunglasses to catch the user's attention.
+  - The Gallery page displays a selection of images of glasses and sunglasses to catch the user's attention.
   - This section is valuable to the user as they will be able to see the latest offer.
 
 ![Gallery](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/gallery.png)
 
+
 - __Location Page__
 
-  - This section displays business address, phone number, email, opening times and a google map.
+  - The Location page displays business address, phone number, email, opening times and a google map.
   - This section will benefit users who want to quickly check where the Brilliant Vision is located and what the latest business hours or contact details are.
 
 ![Location](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/location.png)
 
+
 - __Contact Page__
 
-  - This page will allow the user to ...
+  - The Contact page consists of a form.
+  - This section will benefit users who want to send general query or make an appointment. There is an option to pick a preferred time of the day as well.
+  - Please note that the data sent through the form are not currently saved anywhere. There is no database connected. However, This can be developed in the future.
 
 ![Contact](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/contact.png)
 
+
 - __Thank You Page__
 
-  - This page will allow the user to ...
+  - The Thank You page provides a confirmation for the users after they have sent a form through the Contact page.
+  - This section will benefit users by providing affirmation that the form has been sent successfully.
+  - There is a button to allow users to go back to the Home page
 
 ![Thank You](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/thank-you.png)
 
+
 - __404 Page__
 
-  - This page will allow the user to ...
+  - The 404 error page provides information to the users that the url they have entered cannot be found.
+  - There is a button to allow users to go back to the Home page
 
 ![404](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/404.png)
+
 
 ### Features Left to Implement
 
