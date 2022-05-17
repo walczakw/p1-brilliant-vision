@@ -146,6 +146,9 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ### Features Left to Implement
 
+- The tooltips could be added for the social media icons in the footer
+- The Contact form page could be connected to the database to save data entered and send by the users
+
 
 ## Testing 
 [Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md) to separate file
