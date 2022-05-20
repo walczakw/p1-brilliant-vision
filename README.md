@@ -151,6 +151,8 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The calendar feature could be added so that users can pick exact time and day for the appointment and see the available times/days.
 - The whole website could be one scrollable page.
 - The Services section could be expanded so that each service is clickable. Users could see more information about each service.
+- Two more sections could be added: 'About Us' and 'Testimonials' to the Home page.
+- The iframe for google map could be added using JavaScipt as recommented by google - using JavaScript was out of scope for this project at this time.
 - The tooltips could be added for the social media icons in the footer.
 
 
