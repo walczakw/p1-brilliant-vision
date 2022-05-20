@@ -67,6 +67,7 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ![Color Contrast Grid](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contrast-grid-wcag.png)
 
+
 ## Features 
 
 ### Existing Features
@@ -179,8 +180,16 @@ Screenshots [link](https://github.com/walczakw/p1-brilliant-vision/tree/main/doc
   - Lighthouse validator (Google Chrome Dev Tools)
 
 ### Testing Responsiveness 
+- The website with all its pages was tested for responsiveness using Google Chrome Dev Tools and picking different screen widths and different mobile and tablet devices.
+- The Brilliant Vision is fully responsive from the screen width 280px as a minimum (eg. Samsung Galaxy Fold)
+- It has been also tested using the following web browsers:
+  - Chrome (version 101.0.4951.67)
+  - Firefox (version 100.0.2)
+  - Edge (version 101.0.1210.53)
+  - Opera (version 87.0.4390.25)
 
 ### Unfixed Bugs
+
 
 ## Deployment
 
