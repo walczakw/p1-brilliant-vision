@@ -172,12 +172,12 @@ The same process was applied to the fixed bugs. [Link to Project's board](https:
 
 ### Validator Testing 
 
-The following validator tools were used. For detailed report with screenshots refer to a separe file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md)
+The following validator tools were used. For detailed report with screenshots refer to a separate file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md)
 - HTML:
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 - CSS:
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-- Accesibility:
+- Accessibility:
   - [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/index.html)
 - Performance:
   - Lighthouse validator (Google Chrome Dev Tools)
