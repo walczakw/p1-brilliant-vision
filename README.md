@@ -161,15 +161,18 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 ## Testing 
 
-All features developed (including user stories) were tested when in 'Testing' column of the Project's board.
-The same process was applied to the fixed bugs.
-[Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
+- All features developed (including user stories) were tested when in the 'Testing' column of the Project's board.
+The same process was applied to the fixed bugs. [Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
+- The whole website with all its pages was also tested again after finishing the development.
+- The following web browsers were used for testing:
+  - Chrome (version 101.0.4951.67)
+  - Firefox (version 100.0.2)
+  - Edge (version 101.0.1210.53)
+  - Opera (version 87.0.4390.25)
 
 ### Validator Testing 
-[Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md) to separate file
 
-Screenshots [link](https://github.com/walczakw/p1-brilliant-vision/tree/main/docs/docs-images/validators-screenshots)
-
+The following validator tools were used. For detailed report with screenshots refer to a separe file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md)
 - HTML:
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 - CSS:
@@ -182,11 +185,6 @@ Screenshots [link](https://github.com/walczakw/p1-brilliant-vision/tree/main/doc
 ### Testing Responsiveness 
 - The website with all its pages was tested for responsiveness using Google Chrome Dev Tools and picking different screen widths and different mobile and tablet devices.
 - The Brilliant Vision is fully responsive from the screen width 280px as a minimum (eg. Samsung Galaxy Fold)
-- It has been also tested using the following web browsers:
-  - Chrome (version 101.0.4951.67)
-  - Firefox (version 100.0.2)
-  - Edge (version 101.0.1210.53)
-  - Opera (version 87.0.4390.25)
 
 ### Unfixed Bugs
 
