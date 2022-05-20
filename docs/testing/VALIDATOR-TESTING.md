@@ -13,7 +13,8 @@
     ![Gallery page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-html-w3.png)
 
 - Location page
-    - No errors were found when passing through the official [W3C validator]()
+    - There was one wrror found when passing through the official [W3C validator]()
+    As mentioned in the README file - ['Features Left to Implement section'](https://github.com/walczakw/p1-brilliant-vision#features-left-to-implement), The iframe for google map could be added using JavaScript as recommended by google. The error is due to the 'width 100%' applied to iframe. This was applied to make a map responsive. Unfortunately, using JavaScript was out of scope for this project at this time.
 
     ![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-html-w3.png)
 
@@ -25,7 +26,7 @@
 - Thank You page
     - No errors were found when passing through the official [W3C validator]()
 
-    ![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-html-w3.png)
+    ![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you.html-w3.png)
 
 - 404 page
     - No errors were found when passing through the official [W3C validator]()

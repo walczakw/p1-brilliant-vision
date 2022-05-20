@@ -152,10 +152,10 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The header would benefit from having a hamburger style for menu items for mobile screens.
 - The Contact form page could be connected to the database to save data entered and sent by the users.
 - The calendar feature could be added so that users can pick exact time and day for the appointment and see the available times/days.
+- The iframe for google map could be added using JavaScript as recommended by google. Currently, the WC3 html validator points to error due to the 'width 100%' applied to iframe. This was applied to make a map responsive. Unfortunately, using JavaScript was out of scope for this project at this time.
 - The whole website could be one scrollable page.
 - The Services section could be expanded so that each service is clickable. Users could see more information about each service.
 - Two more sections could be added: 'About Us' and 'Testimonials' to the Home page.
-- The iframe for google map could be added using JavaScipt as recommented by google - using JavaScript was out of scope for this project at this time.
 - The tooltips could be added for the social media icons in the footer.
 
 
@@ -174,9 +174,9 @@ The same process was applied to the fixed bugs. [Link to Project's board](https:
 
 The following validator tools were used. For detailed report with screenshots refer to a separate file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/VALIDATOR-TESTING.md)
 - HTML:
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
+  - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 - CSS:
-  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility:
   - [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/index.html)
 - Performance:
