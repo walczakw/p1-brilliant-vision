@@ -1,26 +1,36 @@
 # Validator Testing 
 
-The following validator tools were used:
-
 ## HTML
 
 - Index page
     - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 
+    ![Index page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-html-w3.png)
+
 - Gallery page
     - No errors were found when passing through the official [W3C validator]()
+
+    ![Gallery page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-html-w3.png)
 
 - Location page
     - No errors were found when passing through the official [W3C validator]()
 
+    ![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-html-w3.png)
+
 - Contact page
     - No errors were found when passing through the official [W3C validator]()
+
+    ![Contact page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-html-w3.png)
 
 - Thank You page
     - No errors were found when passing through the official [W3C validator]()
 
+    ![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-html-w3.png)
+
 - 404 page
     - No errors were found when passing through the official [W3C validator]()
+
+    ![404 page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-html-w3.png)
 
 
 --- 
@@ -30,20 +40,32 @@ The following validator tools were used:
 - Index page
     - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+    ![Index page]()
+
 - Gallery page
     - No errors were found when passing through the official [Jigsaw validator]()
+
+    ![Gallery page]()
 
 - Location page
     - No errors were found when passing through the official [Jigsaw validator]()
 
+    ![Location page]()
+
 - Contact page
     - No errors were found when passing through the official [Jigsaw validator]()
+
+    ![Contact page]()
 
 - Thank You page
     - No errors were found when passing through the official [Jigsaw validator]()
 
+    ![Thank You page]()
+
 - 404 page
     - No errors were found when passing through the official [Jigsaw validator]()
+
+    ![404 page]()
 
 
 --- 
@@ -52,20 +74,31 @@ The following validator tools were used:
 - Index page
     - No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/index.html)
 
+    ![Index page]()
+
 - Gallery page
     - No errors were found when passing through the official [WAVE validator]()
+    ![Gallery page]()
 
 - Location page
     - No errors were found when passing through the official [WAVE validator]()
 
+    ![Location page]()
+
 - Contact page
     - No errors were found when passing through the official [WAVE validator]()
+
+    ![Contact page]()
 
 - Thank You page
     - No errors were found when passing through the official [WAVE validator]()
 
+    ![Thank You page]()
+
 - 404 page
     - No errors were found when passing through the official [WAVE validator]()
+
+    ![404 page]()
 
 
 --- 
@@ -76,15 +109,27 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 ### Mobile
 - Index page
 
+![Index page]()
+
 - Gallery page
+
+![Gallery page]()
 
 - Location page
 
+![Location page]()
+
 - Contact page
+
+![Contact page]()
 
 - Thank You page
 
+![Thank You page]()
+
 - 404 page
+
+![404 page]()
 
 
 --- 
@@ -92,12 +137,24 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 ### Desktop
 - Index page
 
+![Index page]()
+
 - Gallery page
+
+![Gallery page]()
 
 - Location page
 
+![Location page]()
+
 - Contact page
+
+![Contact page]()
 
 - Thank You page
 
+![Thank You page]()
+
 - 404 page
+
+![404 page]()
