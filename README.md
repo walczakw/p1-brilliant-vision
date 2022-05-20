@@ -19,8 +19,10 @@ The site targets anyone needing opticians services and provides essential inform
 3. [**Features**](#features)
     * [***Existing Features***](#existing-features)
     * [***Features Left to Implement***](#features-left-to-implement)
-
-
+4. [**Testing**](#testing)
+    * [***Validator Testing***](#validator-testing)
+    * [***Testing Responsiveness***](#testing-responsiveness)
+    
 
 ## UX
 
@@ -157,13 +159,14 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 
 ## Testing 
-[Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md) to separate file
 
-### Manual Testing
-
-### Testing User Stories
+All features developed (including user stories) were tested when in 'Testing' column of the Project's board.
+The same process was applied to the fixed bugs.
+[Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
 
 ### Validator Testing 
+[Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/TESTING.md) to separate file
+
 Screenshots [link](https://github.com/walczakw/p1-brilliant-vision/tree/main/docs/docs-images/validators-screenshots)
 
 - HTML
