@@ -114,15 +114,15 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Index page
 
-![Index page]()
+![Index page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-lighthouse-mobile.png)
 
 ### Gallery page
 
-![Gallery page]()
+![Gallery page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-lighthouse-mobile.png)
 
 ### Location page
 
-![Location page]()
+![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-lighthouse-mobile.png)
 
 ### Contact page
 
@@ -143,15 +143,15 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Index page
 
-![Index page]()
+![Index page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-lighthouse-desktop.png)
 
 ### Gallery page
 
-![Gallery page]()
+![Gallery page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-lighthouse-desktop.png)
 
 ### Location page
 
-![Location page]()
+![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-lighthouse-desktop.png)
 
 ### Contact page
 
