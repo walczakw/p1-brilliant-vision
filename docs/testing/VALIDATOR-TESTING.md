@@ -85,26 +85,26 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 ![Index page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-wave-details.png)
 
 ### Gallery page
-- No errors were found when passing through the official [WAVE validator]()
+- No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/gallery.html)
 
 #### Summary
 
-![Gallery page summary]()
+![Gallery page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-wave-summary.png)
 
 #### Details
 
-![Gallery page details]()
+![Gallery page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-wave-details.png)
 
 ### Location page
-- No errors were found when passing through the official [WAVE validator]()
+- No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/location.html)
 
 #### Summary
 
-![Location page summary]()
+![Location page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-wave-summary.png)
 
 #### Details
 
-![Location page details]()
+![Location page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-wave-details.png)
 
 ### Contact page
 - No errors were found when passing through the official [WAVE validator]()
@@ -118,26 +118,26 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 ![Contact page details]()
 
 ### Thank You page
-- No errors were found when passing through the official [WAVE validator]()
+- No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/thank-you.html)
 
 #### Summary
 
-![Thank You page summary]()
+![Thank You page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-wave-summary.png)
 
 #### Details
 
-![Thank You page details]()
+![Thank You page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-wave-details.png)
 
 ### 404 page
-- No errors were found when passing through the official [WAVE validator]()
+- No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/404.html)
 
 #### Summary
 
-![404 page summary]()
+![404 page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-wave-summary.png)
 
 #### Details
 
-![404 page details]()
+![404 page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-wave-details.png)
 
 --- 
 
