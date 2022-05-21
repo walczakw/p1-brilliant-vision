@@ -164,11 +164,11 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Thank You page
 
-![Thank You page]()
+![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-lighthouse-mobile.png)
 
 ### 404 page
 
-![404 page]()
+![404 page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-lighthouse-mobile.png)
 
 
 --- 
@@ -193,8 +193,8 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Thank You page
 
-![Thank You page]()
+![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-lighthouse-desktop.png)
 
 ### 404 page
 
-![404 page]()
+![404 page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-lighthouse-desktop.png)
