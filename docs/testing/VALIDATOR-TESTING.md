@@ -142,7 +142,7 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 --- 
 
 ## Performance
-The performance was tested using 'Lighthouse validator' in Google Chrome Dev Tools.
+The performance was tested using 'Lighthouse validator' in Google Chrome Dev Tools in 'Incognito' mode.
 
 ### __Mobile__
 

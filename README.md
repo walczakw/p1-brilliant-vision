@@ -22,7 +22,9 @@ The site targets anyone needing opticians services and provides essential inform
 4. [**Testing**](#testing)
     * [***Validator Testing***](#validator-testing)
     * [***Testing Responsiveness***](#testing-responsiveness)
-    
+5. [**Deployment**](#deployment)
+6. [**Credits**](#credits)
+     
 
 ## UX
 
@@ -191,12 +193,15 @@ The following validator tools were used. For detailed report with screenshots re
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed to GitHub pages by following the steps below:
+  1. In the GitHub repository, navigate to the Settings tab and then click on 'Pages' (from the menu on the left)
+  2. From the source section drop-down menu, select the Main Branch and click 'Save'
+  3. Once the site has been deployed, the link to it will be displayed with the information: "Your site is published at..."
 
-The live link can be found here - https://walczakw.github.io/p1-brilliant-vision/
+  - The live link can be found here - https://walczakw.github.io/p1-brilliant-vision/
+
+- Alternatively, a local copy of this repository can be made by pasting the code below into a terminal:
+  - `git clone https://github.com/walczakw/p1-brilliant-vision.git`
 
 
 ## Credits 
