@@ -76,34 +76,68 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 ### Index page
 - No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/index.html)
 
+#### Summary
+
 ![Index page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-wave-summary.png)
+
+#### Details
 
 ![Index page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-wave-details.png)
 
 ### Gallery page
 - No errors were found when passing through the official [WAVE validator]()
-![Gallery page]()
+
+#### Summary
+
+![Gallery page summary]()
+
+#### Details
+
+![Gallery page details]()
 
 ### Location page
 - No errors were found when passing through the official [WAVE validator]()
 
-![Location page]()
+#### Summary
+
+![Location page summary]()
+
+#### Details
+
+![Location page details]()
 
 ### Contact page
 - No errors were found when passing through the official [WAVE validator]()
 
-![Contact page]()
+#### Summary
+
+![Contact page summary]()
+
+#### Details
+
+![Contact page details]()
 
 ### Thank You page
 - No errors were found when passing through the official [WAVE validator]()
 
-![Thank You page]()
+#### Summary
+
+![Thank You page summary]()
+
+#### Details
+
+![Thank You page details]()
 
 ### 404 page
 - No errors were found when passing through the official [WAVE validator]()
 
-![404 page]()
+#### Summary
 
+![404 page summary]()
+
+#### Details
+
+![404 page details]()
 
 --- 
 
