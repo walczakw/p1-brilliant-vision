@@ -451,7 +451,7 @@ nav a:hover {
 }
 
 .contact-form .text-input:hover {
-    border: 0.4px solid #4f6070;
+    border: 0.1rem solid #4f6070;
 }
 
 fieldset {
@@ -466,7 +466,7 @@ fieldset {
 }
 
 fieldset:hover {
-    border: 0.5px solid #4f6070;
+    border: 0.1rem solid #4f6070;
 }
 
 fieldset legend {
