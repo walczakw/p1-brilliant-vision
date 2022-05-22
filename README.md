@@ -72,7 +72,8 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The color 'red' was picked as the main color and then the right shade of 'red' has been chosen to correspond well with the main 'Hero' image and company's logo. The [Adobe Color](https://color.adobe.com/create/image) 'extract theme' tool was used.
 - Then, colors for main text, background colors and links were picked to match the site's design and also to be WCAG 2.0 compliant at the same time. 
 - Each color was checked using different contrast checking tools, e.g. [WebAIM](https://webaim.org/resources/contrastchecker/)
-- The [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23012340%0D%0A%23A62639%0D%0A%23FFFFFF%0D%0A%23E8E9ED%0D%0A%23004C8F%0D%0A%0D%0A%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa) was also generated to only show AAA compliant color combinations:
+- The [Contrast Grid](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23012340%0D%0A%23A62639%0D%0A%23FFFFFF%0D%0A%23E8E9ED%0D%0A%23004C8F%0D%0A%0D%0A%0D%0A%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa) was also generated to only show AAA compliant color combinations.
+- These are the final colors for the Brilliant Vision site:
 
 ![Color Contrast Grid](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contrast-grid-wcag.png)
 
@@ -83,7 +84,8 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 - __Header with Navigation__
 
-  - Featured on all pages, the full responsive, fixed header includes links to the Logo, Home page, Gallery, Location and Contact page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, the fully responsive, fixed header includes links to the Home, Gallery, Location and Contact pages and is identical in each page to allow for easy navigation.
+  - The logo is also clickable and brings the user to the Home page.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Header](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/header.png)
@@ -165,7 +167,7 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The Services section could be expanded so that each service is clickable. Users could see more information about each service.
 - Two more sections could be added: 'About Us' and 'Testimonials' to the Home page.
 - The tooltips could be added for the social media icons in the footer.
-- The media queries section of the css file could be refactored to list media queries by screen size and not but sections. The screen sizes could be limited to only a few most common so that there are less breakpoints. 
+- The media queries section of the css file could be refactored to list media queries by screen size and not by sections. The screen sizes could be limited to only a few most common so that there are less breakpoints. 
 The current implementation was done by adding media queries after finishing each section of the site. The better approach would perhaps be to test the site at the end and then find common breakpoints.
 
 

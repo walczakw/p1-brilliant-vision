@@ -139,6 +139,7 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 
 ![404 page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-wave-details.png)
 
+
 --- 
 
 ## Performance
