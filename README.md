@@ -21,7 +21,7 @@ The site targets anyone needing opticians services and provides essential inform
     * [***Color palette choice and Accessibility***](#color-palette-choice-and-accessibility)
 3. [**Features**](#features)
     * [***Existing Features***](#existing-features)
-    * [***Features Left to Implement***](#features-left-to-implement)
+    * [***Features Left to Implement and Possible Improvements***](#features-left-to-implement-and-possible-improvements)
 4. [**Testing**](#testing)
     * [***Validator Testing***](#validator-testing)
     * [***Testing Responsiveness***](#testing-responsiveness)
@@ -156,7 +156,7 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 ![404](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/website-screenshots/404.png)
 
 
-### Features Left to Implement
+### Features Left to Implement and Possible Improvements
 - The header would benefit from having a hamburger style for menu items for mobile screens.
 - The Contact form page could be connected to the database to save data entered and sent by the users.
 - The calendar feature could be added so that users can pick exact time and day for the appointment and see the available times/days.
@@ -165,6 +165,8 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 - The Services section could be expanded so that each service is clickable. Users could see more information about each service.
 - Two more sections could be added: 'About Us' and 'Testimonials' to the Home page.
 - The tooltips could be added for the social media icons in the footer.
+- The media queries section of the css file could be refactored to list media queries by screen size and not but sections. The screen sizes could be limited to only a few most common so that there are less breakpoints. 
+The current implementation was done by adding media queries after finishing each section of the site. The better approach would perhaps be to test the site at the end and then find common breakpoints.
 
 
 ## Testing 
