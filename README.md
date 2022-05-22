@@ -1,5 +1,6 @@
 # Brilliant Vision
 
+
 ## Introduction
 
 The “Brilliant Vision” is a small business website of a local opticians in Killarney, Ireland. 
@@ -9,7 +10,9 @@ The site targets anyone needing opticians services and provides essential inform
 
 ![Responsive Mockup](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/responsive-mockup.png)
 
+
 ## Index
+
 1. [**Introduction**](#introduction)
 2. [**UX**](#UX)
     * [***Site Objectives***](#site-objectives)
@@ -24,8 +27,12 @@ The site targets anyone needing opticians services and provides essential inform
     * [***Testing Responsiveness***](#testing-responsiveness)
 5. [**Deployment**](#deployment)
 6. [**Credits**](#credits)
-     
+    * [***Content***](#content)
+    * [***Media***](#media)
+    * [***General Reference***](#general-reference)
+    * [***Acknowledgements***](#acknowledgements)
 
+     
 ## UX
 
 ### Site Objectives 
@@ -150,7 +157,6 @@ The wireframes were created using the [Balsamiq](https://balsamiq.com/) tool.
 
 
 ### Features Left to Implement
-
 - The header would benefit from having a hamburger style for menu items for mobile screens.
 - The Contact form page could be connected to the database to save data entered and sent by the users.
 - The calendar feature could be added so that users can pick exact time and day for the appointment and see the available times/days.
@@ -173,7 +179,6 @@ The same process was applied to the fixed bugs. [Link to Project's board](https:
   - Opera (version 87.0.4390.25)
 
 ### Validator Testing 
-
 The following validator tools were used. For detailed report with screenshots refer to a separate file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/VALIDATOR-TESTING.md)
 - HTML:
   - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
@@ -188,29 +193,58 @@ The following validator tools were used. For detailed report with screenshots re
 - The website with all its pages was tested for responsiveness using Google Chrome Dev Tools and picking different screen widths and different mobile and tablet devices.
 - The Brilliant Vision is fully responsive from the screen width 280px as a minimum (eg. Samsung Galaxy Fold)
 
-### Unfixed Bugs
-
 
 ## Deployment
 
-- The site was deployed to GitHub pages by following the steps below:
+The site was deployed to GitHub pages by following the steps below:
   1. In the GitHub repository, navigate to the Settings tab and then click on 'Pages' (from the menu on the left)
   2. From the source section drop-down menu, select the Main Branch and click 'Save'
   3. Once the site has been deployed, the link to it will be displayed with the information: "Your site is published at..."
 
-  - The live link can be found here - https://walczakw.github.io/p1-brilliant-vision/
+The live link can be found here - https://walczakw.github.io/p1-brilliant-vision/
 
-- Alternatively, a local copy of this repository can be made by pasting the code below into a terminal:
+Alternatively, a local copy of this repository can be made by pasting the code below into a terminal:
   - `git clone https://github.com/walczakw/p1-brilliant-vision.git`
 
 
 ## Credits 
 
 ### Content 
-
-- The text for the Home page was taken from:
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Text:
+  - A research was done by checking 20+ different US based Opticians websites to find services offered. Then, nine most common services were picked for the 'Services' section of the Brilliant Vision home page.
+  - The text for the 'Location' page features a fictional address and opening hours.
+- Map:
+  - The map for the 'Location' page was taken from [Google Maps](https://www.google.com/maps)
+- The website mockup for the README was generated using [techsini.com](https://techsini.com/multi-mockup/)
+- The favicon was generated using [realfavicongenerator.net](https://realfavicongenerator.net/) and then tested using [favicon checker](https://realfavicongenerator.net/favicon_checker?ignore_root_issues=true#.YomRT1SZNEa)
+- The fonts used were imported from [Google Fonts](https://fonts.google.com/)
+- The font pairings were found using [fontjoy.com](https://fontjoy.com/)
 
 ### Media
+- The glasses icon for the Brilliant Vision logo and favicon was taken from [FREE SVG](https://freesvg.org/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The images used for the 'Home' and 'Gallery' pages were taken from this open source sites: 
+  - [Pexels](https://www.pexels.com/)
+  - [Unsplash](https://unsplash.com/)
+- Images were compressed using [TinyPNG](https://tinypng.com/)
 
-- The images used for the gallery page were taken from this open source site: 
+### General Reference
+- During development process the following websites were used for reference when additional information was needed:
+  - HTML & CSS advice:
+    - [MDN](https://developer.mozilla.org/en-US/)
+    - [w3schools](https://www.w3schools.com/)
+    - [CSS TRICKS](https://css-tricks.com/)
+  - Creating accessible forms and general accessibility advice:
+    - [w3.org](https://www.w3.org/WAI/tutorials/forms/)
+    - [webaim](https://webaim.org/techniques/forms/controls)
+  - Font size guidelines:
+    - [learnui.design](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)
+    - [material.io](https://material.io/design/typography/the-type-system.html#type-scale)
+- The following README examples were read for an inspiration before writing README for Brilliant Vision:
+  - ['Love Running' project](https://github.com/lucyrush/readme-love-running)
+  - [David Bowers](https://github.com/dnlbowers/modern-buddhism)
+  - [Matt B](https://github.com/MattBCoding/leinster-trophy)
+  - [StevenWeir038](https://github.com/StevenWeir038/islandAQUAdesign)
+
+### Acknowledgements
+Special thank you to Code Institute mentor [Daisy Mc Girr](https://github.com/Daisy-McG) for providing feedback and improvement suggestions during development of this project.
