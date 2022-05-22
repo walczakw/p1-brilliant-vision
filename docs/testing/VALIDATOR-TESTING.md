@@ -54,9 +54,9 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 ![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-css-w3c.png)
 
 ### Contact page
-- No errors were found when passing through the official [Jigsaw validator]()
+- No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-![Contact page]()
+![Contact page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-css-w3c.png)
 
 ### Thank You page
 - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fthank-you.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -107,15 +107,15 @@ As mentioned in the README file - ['Features Left to Implement section'](https:/
 ![Location page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-wave-details.png)
 
 ### Contact page
-- No errors were found when passing through the official [WAVE validator]()
+- No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/contact.html)
 
 #### Summary
 
-![Contact page summary]()
+![Contact page summary](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-wave-summary.png)
 
 #### Details
 
-![Contact page details]()
+![Contact page details](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-wave-details.png)
 
 ### Thank You page
 - No errors were found when passing through the official [WAVE validator](https://wave.webaim.org/report#/https://walczakw.github.io/p1-brilliant-vision/thank-you.html)
@@ -160,7 +160,7 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Contact page
 
-![Contact page]()
+![Contact page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-lighthouse-mobile.png)
 
 ### Thank You page
 
@@ -189,7 +189,7 @@ The performance was tested using 'Lighthouse validator' in Google Chrome Dev Too
 
 ### Contact page
 
-![Contact page]()
+![Contact page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-lighthouse-desktop.png)
 
 ### Thank You page
 
