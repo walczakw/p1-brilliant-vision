@@ -16,7 +16,7 @@ The site targets anyone needing opticians services and provides essential inform
 1. [**Introduction**](#introduction)
 2. [**UX**](#UX)
     * [***Site Objectives***](#site-objectives)
-    * [***User stories & Project board***](#user-stories-&-project-board)
+    * [***User stories and Project board***](#user-stories-and-project-board)
     * [***Wireframes***](#wireframes)
     * [***Color palette choice and Accessibility***](#color-palette-choice-and-accessibility)
 3. [**Features**](#features)
@@ -50,7 +50,7 @@ The following information was gathered to find common goals and then to form the
 - To show examples of glasses and sunglasses offered in the form of 'Gallery' page.
 - To provide all site elements in an accessible way, especially for people with visual impairments.
 
-### User stories & Project board
+### User stories and Project board
 - The site requirements were put into user stories. [Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/user-stories/USER-STORIES.md) to a separate document listing all user stories.
 - The user stories were then converted into issues for development. The Github Project was created to manage the issues. Any bugs found during the development process that were not fixed immediately were also added to the board. [Link to Project's board](https://github.com/walczakw/p1-brilliant-vision/projects/1)
   - Four columns were added to the Project's board: 'To do', 'In progress', 'Testing' and 'Done'.
@@ -181,7 +181,7 @@ The same process was applied to the fixed bugs. [Link to Project's board](https:
 ### Validator Testing 
 The following validator tools were used. For detailed report with screenshots refer to a separate file [here](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/testing/VALIDATOR-TESTING.md)
 - HTML:
-  - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
+  - [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 - CSS:
   - [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility:

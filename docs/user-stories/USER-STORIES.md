@@ -68,7 +68,7 @@ Refer to attached wireframes for more details. [Link](https://github.com/walczak
 
 __Description:__
 
-As a user I would like to see a ‘Thank you’ page after sending the contact form. The ‘Thank you’ page will display text “Thank you for submitting the form”. Under the text there will be a button with text “Home” to take the user to a home page.
+As a user I would like to see a ‘Thank you’ page after sending the contact form. The ‘Thank you’ page will display the text “Thank you for submitting the form”. Under the text there will be a button with text “Home” to take the user to a home page.
 Refer to attached wireframes for more details. [Link](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/wireframes/wireframes.pdf)
 
 --- 

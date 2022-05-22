@@ -3,33 +3,33 @@
 ## HTML
 
 ### Index page
-- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
+- No errors were returned when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Findex.html)
 
 ![Index page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/home-html-w3.png)
 
 ### Gallery page
-- No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fgallery.html)
+- No errors were found when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fgallery.html)
 
 ![Gallery page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/gallery-html-w3.png)
 
 ### Location page
-- There was one wrror found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Flocation.html)
+- There was one error found when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Flocation.html)
 As mentioned in the README file - ['Features Left to Implement section'](https://github.com/walczakw/p1-brilliant-vision#features-left-to-implement), The iframe for google map could be added using JavaScript as recommended by google. The error is due to the 'width 100%' applied to iframe. This was applied to make a map responsive. Unfortunately, using JavaScript was out of scope for this project at this time.
 
 ![Location page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/location-html-w3.png)
 
 ### Contact page
-- No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fcontact.html)
+- No errors were found when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fcontact.html)
 
 ![Contact page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/contact-html-w3.png)
 
 ### Thank You page
-- No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fthank-you.html)
+- No errors were found when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2Fthank-you.html)
 
 ![Thank You page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/thank-you-html-w3.png)
 
 ### 404 page
-- No errors were found when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2F404.html)
+- No errors were found when passing through the official [W3 validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwalczakw.github.io%2Fp1-brilliant-vision%2F404.html)
 
 ![404 page](https://github.com/walczakw/p1-brilliant-vision/blob/main/docs/docs-images/validators-screenshots/404-html-w3.png)
 
